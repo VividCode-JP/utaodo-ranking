@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>踊コレ2026春 非公式ランキング</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>踊コレ2026春 非公式ランキング</h1>
+        <div class="last-updated" id="last-updated">データ取得中...</div>
+        <div style="font-size: 0.75rem; color: #aaa; margin-top: 4px;">※毎時00・20・40分頃に集計開始。反映されるまで1分程度かかります。</div>
+    </header>
+
+<details class="notice-box">
+        <summary><strong>⚠️ 免責事項と「応援pt」の算出方針（タップして開く）</strong></summary>
+        <div class="notice-content">
+            <p style="margin-bottom: 0.5em;">
+                本サイトの「応援pt」は、一個人がニコニコの検索APIから取得した数値に、独自の計算式を当てはめて算出した非公式なものです。<br>
+                公式の算出方法は非公開のため、最終的な公式順位とは確実に異なります。<strong>ただし、表示している再生数やマイリス数などは20分ごとに収集された最新の実績値ですので、現在の勢いや盛り上がりを把握する確かな目安としてご活用ください。</strong>
+            </p>
+
+            <hr style="margin: 12px 0; border: 0; border-top: 1px dashed #ffe69c;">
+
+            <p style="margin-bottom: 0.5em;"><strong>【応援ptの算出方針について】</strong></p>
+            <p style="margin-bottom: 0.5em; font-size: 0.95em;">
+                当サイトでは、ファンの間で重視されている「いいね」や「マイリスト」等のアクション（応援の熱量）を高く評価するため、全動画に対して一律の独自ルールを適用し、機械的にポイントを算出しています。
+            </p>
+            <ul style="margin-left: 1.5em; font-size: 0.95em; line-height: 1.6;">
+                <li><strong>評価の比重：</strong> 再生やコメントに対し、いいね（×20）やマイリスト（×40）に高い比重を置いています。</li>
+                <li><strong>バランス補正：</strong> アクション数に対して、極端に再生数のみが先行している動画は、ポイントへの反映に一定の上限を設けて全体のバランスを補正しています。</li>
+            </ul>
+        </div>
+    </details>
+
+    <div class="container">
+        
+        <div class="controls-area">
+            <div class="tabs" id="tabs-container">
+                
+            </div>
+
+            <div class="sort-control">
+                <label for="sort-select">並び替え：</label>
+                <select id="sort-select">
+                    <option value="score">総合応援pt順</option>
+                    <option value="momentum_score">🔥総合の勢い順（直近20分）</option>
+                    <option value="view">累計 再生数順</option>
+                    <option value="comment">累計 コメント数順</option>
+                    <option value="mylist">累計 マイリスト数順</option>
+                    <option value="like">累計 いいね数順</option>
+                </select>
+            </div>
+        </div>
+
+        
+        <div class="tracker-list" id="tracker-list">
+            <div class="loading">データを読み込んでいます...</div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
