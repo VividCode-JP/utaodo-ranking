@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-08 13:40:12",
+    "generated_at": "2026-03-08 14:00:13",
     "weights": {
       "view": 1,
       "comment": 0.1,
@@ -20,27 +20,24 @@
         "score": 15952,
         "is_new": false,
         "counts": {
-          "view": 4964,
+          "view": 5040,
           "comment": 526,
           "mylist": 138,
           "like": 300
         },
         "momentum": {
-          "view": 87,
-          "comment": 16,
-          "mylist": 3,
-          "like": 4,
-          "score": 271
+          "view": 76,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "score_1",
           "view_total_3",
           "like_total_1",
           "mylist_total_1",
-          "view_momentum_1",
-          "comment_momentum_1",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "view_momentum_1"
         ],
         "rank": 1
       },
@@ -49,26 +46,27 @@
         "title": "【みゅう】さてゃん 踊ってみた【オリジナル振付】",
         "owner": "みゅう",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021679/46021679.4553055.original/r640x360l?key=cfc5a2036f20e293aa59ff34eb2024fd6ad5402dc8293035f0b408fdf58bc7d3",
-        "score": 12803,
+        "score": 12884,
         "is_new": false,
         "counts": {
-          "view": 3532,
-          "comment": 1038,
-          "mylist": 122,
-          "like": 220
+          "view": 3559,
+          "comment": 1046,
+          "mylist": 123,
+          "like": 221
         },
         "momentum": {
-          "view": 31,
-          "comment": 3,
+          "view": 27,
+          "comment": 8,
           "mylist": 1,
-          "like": 2,
-          "score": 110
+          "like": 1,
+          "score": 81
         },
         "badges": [
           "score_2",
           "comment_total_2",
           "like_total_2",
           "mylist_total_2",
+          "mylist_momentum_2",
           "like_momentum_3"
         ],
         "rank": 2
@@ -78,25 +76,50 @@
         "title": "【ハガネ】あつまれ☆平成オタク老人会!! 踊ってみた【オリジナル振付】",
         "owner": "ハガネ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023908/46023908.32523665.original/r640x360l?key=d8e8580544734bb04b05ae53618dc05eb8e4ac6343dab527081472db14f6dc37",
-        "score": 9923,
+        "score": 9951,
         "is_new": false,
         "counts": {
-          "view": 2420,
+          "view": 2428,
           "comment": 433,
           "mylist": 90,
-          "like": 193
+          "like": 194
         },
         "momentum": {
-          "view": 3,
+          "view": 8,
           "comment": 0,
           "mylist": 0,
-          "like": 0,
-          "score": 3
+          "like": 1,
+          "score": 28
         },
         "badges": [
           "score_3"
         ],
         "rank": 3
+      },
+      {
+        "id": "sm46010999",
+        "title": "【しらせ・あまい】惑星ループ 踊ってみた 【踊コレ2026春】",
+        "owner": "しらせ",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46010999/46010999.2421340.original/r640x360l?key=38ec2005fddf252df42144b57fb15724d6a0350cf6fed9a18fe3151806c0af3f",
+        "score": 9841,
+        "is_new": false,
+        "counts": {
+          "view": 2547,
+          "comment": 349,
+          "mylist": 85,
+          "like": 193
+        },
+        "momentum": {
+          "view": 10,
+          "comment": 3,
+          "mylist": 0,
+          "like": 2,
+          "score": 50
+        },
+        "badges": [
+          "like_momentum_2"
+        ],
+        "rank": 4
       },
       {
         "id": "sm46018338",
@@ -106,45 +129,23 @@
         "score": 9812,
         "is_new": false,
         "counts": {
-          "view": 6223,
-          "comment": 224,
+          "view": 6263,
+          "comment": 227,
           "mylist": 92,
           "like": 173
         },
         "momentum": {
-          "view": 22,
-          "comment": 0,
+          "view": 40,
+          "comment": 3,
           "mylist": 0,
           "like": 0,
           "score": 0
         },
         "badges": [
           "view_total_1",
-          "mylist_total_3"
+          "mylist_total_3",
+          "view_momentum_3"
         ],
-        "rank": 4
-      },
-      {
-        "id": "sm46010999",
-        "title": "【しらせ・あまい】惑星ループ 踊ってみた 【踊コレ2026春】",
-        "owner": "しらせ",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46010999/46010999.2421340.original/r640x360l?key=38ec2005fddf252df42144b57fb15724d6a0350cf6fed9a18fe3151806c0af3f",
-        "score": 9791,
-        "is_new": false,
-        "counts": {
-          "view": 2537,
-          "comment": 346,
-          "mylist": 85,
-          "like": 191
-        },
-        "momentum": {
-          "view": 4,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 4
-        },
-        "badges": [],
         "rank": 5
       },
       {
@@ -155,17 +156,17 @@
         "score": 9635,
         "is_new": false,
         "counts": {
-          "view": 3380,
+          "view": 3401,
           "comment": 256,
           "mylist": 86,
           "like": 177
         },
         "momentum": {
-          "view": 29,
+          "view": 21,
           "comment": 0,
           "mylist": 0,
-          "like": 2,
-          "score": 60
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 6
@@ -175,24 +176,24 @@
         "title": "【藍音】ワーストリグレット 踊ってみた 【オリジナル振付】【踊コレ2026春】",
         "owner": "藍音(あいね)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46007276/46007276.88509321.original/r640x360l?key=a32440ae9eb859349374797bd653da5de7b4bf8785a36f6272bd235d222cd5a6",
-        "score": 9000,
+        "score": 9072,
         "is_new": false,
         "counts": {
-          "view": 2047,
+          "view": 2059,
           "comment": 732,
-          "mylist": 86,
-          "like": 172
+          "mylist": 87,
+          "like": 173
         },
         "momentum": {
-          "view": 7,
-          "comment": 13,
-          "mylist": 0,
-          "like": 0,
-          "score": 9
+          "view": 12,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 72
         },
         "badges": [
           "comment_total_3",
-          "comment_momentum_2"
+          "mylist_momentum_2"
         ],
         "rank": 7
       },
@@ -201,24 +202,25 @@
         "title": "【フォレシィ】Flyer! 踊ってみた【オリジナル振付】【踊コレ2026春チャレンジ部門】",
         "owner": "フォレシィ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019923/46019923.32304324.original/r640x360l?key=01536c95c2566154cca82f29d12c0a6f97b5afe7e4ef71cade5fb5a234ba69f6",
-        "score": 8792,
+        "score": 8803,
         "is_new": false,
         "counts": {
-          "view": 1305,
-          "comment": 1071,
+          "view": 1315,
+          "comment": 1080,
           "mylist": 84,
           "like": 201
         },
         "momentum": {
           "view": 10,
-          "comment": 1,
+          "comment": 9,
           "mylist": 0,
           "like": 0,
-          "score": 10
+          "score": 11
         },
         "badges": [
           "comment_total_1",
-          "like_total_3"
+          "like_total_3",
+          "comment_momentum_3"
         ],
         "rank": 8
       },
@@ -230,7 +232,7 @@
         "score": 6392,
         "is_new": false,
         "counts": {
-          "view": 2797,
+          "view": 2813,
           "comment": 520,
           "mylist": 56,
           "like": 118
@@ -238,9 +240,9 @@
         "momentum": {
           "view": 16,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 9
@@ -250,22 +252,24 @@
         "title": "【初投稿】太陽系デスコ 踊ってみた【踊コレ2026春】【八木遥叶】【豪雨】",
         "owner": "八木遥叶",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027820/46027820.65654116.original/r640x360l?key=ba1e3ef9abb3dd5f12210f7dd653acd34d9ac5ff97522260dfe98d83990c7349",
-        "score": 6328,
+        "score": 6375,
         "is_new": false,
         "counts": {
-          "view": 1166,
-          "comment": 222,
+          "view": 1173,
+          "comment": 223,
           "mylist": 44,
-          "like": 169
+          "like": 171
         },
         "momentum": {
-          "view": 16,
-          "comment": 2,
+          "view": 7,
+          "comment": 1,
           "mylist": 0,
-          "like": 1,
-          "score": 36
+          "like": 2,
+          "score": 47
         },
-        "badges": [],
+        "badges": [
+          "like_momentum_2"
+        ],
         "rank": 10
       },
       {
@@ -273,20 +277,20 @@
         "title": "【翠華】声 / H△G 踊ってみた【初オリジナル振付】【踊コレ2026春】",
         "owner": "翠華",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019271/46019271.88220390.original/r640x360l?key=0b5b7b721ffd04f7b9a5b012f5c9890d28fdf4ab5ee5f2a2fd4c68d8409b7b7c",
-        "score": 6041,
+        "score": 6050,
         "is_new": false,
         "counts": {
-          "view": 1212,
+          "view": 1221,
           "comment": 92,
           "mylist": 57,
           "like": 127
         },
         "momentum": {
-          "view": 10,
+          "view": 9,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 70
+          "mylist": 0,
+          "like": 0,
+          "score": 9
         },
         "badges": [],
         "rank": 11
@@ -296,20 +300,20 @@
         "title": "【踊コレ2026春】ファイアダンス 踊ってみた【おさげとのりちゃん】",
         "owner": "おさげ女子",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027116/46027116.2526194.original/r640x360l?key=52c68313b346c3c573313e16668177ae7675b9fea803999b526cea2f731c4262",
-        "score": 5883,
+        "score": 5902,
         "is_new": false,
         "counts": {
-          "view": 1165,
+          "view": 1184,
           "comment": 189,
           "mylist": 55,
           "like": 125
         },
         "momentum": {
-          "view": 6,
+          "view": 19,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 6
+          "score": 19
         },
         "badges": [],
         "rank": 12
@@ -319,24 +323,23 @@
         "title": "【ぱん。】たびだちのうた ／踊コレ2026春 踊ってみた【オリジナル振付】",
         "owner": "ぱん。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024587/46024587.60951492.original/r640x360l?key=8efb3c6c4528752f09033bffbc7021ec2e90b3d9137d39227a3aa38e79b0e14d",
-        "score": 5850,
+        "score": 5853,
         "is_new": false,
         "counts": {
-          "view": 741,
-          "comment": 292,
+          "view": 743,
+          "comment": 308,
           "mylist": 62,
           "like": 130
         },
         "momentum": {
-          "view": 5,
-          "comment": 3,
-          "mylist": 2,
-          "like": 3,
-          "score": 146
+          "view": 2,
+          "comment": 16,
+          "mylist": 0,
+          "like": 0,
+          "score": 3
         },
         "badges": [
-          "mylist_momentum_2",
-          "like_momentum_2"
+          "comment_momentum_2"
         ],
         "rank": 13
       },
@@ -348,21 +351,19 @@
         "score": 5775,
         "is_new": false,
         "counts": {
-          "view": 3377,
+          "view": 3405,
           "comment": 54,
           "mylist": 44,
           "like": 119
         },
         "momentum": {
-          "view": 33,
+          "view": 28,
           "comment": 0,
           "mylist": 0,
           "like": 0,
           "score": 0
         },
-        "badges": [
-          "view_momentum_3"
-        ],
+        "badges": [],
         "rank": 14
       },
       {
@@ -370,20 +371,20 @@
         "title": "【負傷クレア】　空想ブルームーン　踊ってみた【行くぞ超会議！！！】",
         "owner": "負傷クレア",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45962239/45962239.23592613.original/r640x360l?key=784bea9a2945b13011f199e06d4ce52da32d5c34c33a49308479b10d5226e165",
-        "score": 5452,
+        "score": 5453,
         "is_new": false,
         "counts": {
-          "view": 720,
+          "view": 721,
           "comment": 120,
           "mylist": 58,
           "like": 120
         },
         "momentum": {
-          "view": 2,
+          "view": 1,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 62
+          "mylist": 0,
+          "like": 0,
+          "score": 1
         },
         "badges": [],
         "rank": 15
@@ -393,25 +394,23 @@
         "title": "【そいらむね】陽だまりのセツナ 踊ってみた【オリジナル振付】",
         "owner": "ラムネ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021907/46021907.24254228.original/r640x360l?key=41fa4624f7746498dceb73b4678659b2ebbae05faebb1681cbfb609ec4470d29",
-        "score": 4628,
+        "score": 4695,
         "is_new": false,
         "counts": {
-          "view": 474,
-          "comment": 145,
-          "mylist": 49,
-          "like": 109
+          "view": 481,
+          "comment": 147,
+          "mylist": 50,
+          "like": 110
         },
         "momentum": {
-          "view": 9,
-          "comment": 7,
-          "mylist": 2,
-          "like": 4,
-          "score": 170
+          "view": 7,
+          "comment": 2,
+          "mylist": 1,
+          "like": 1,
+          "score": 67
         },
         "badges": [
-          "comment_momentum_3",
-          "mylist_momentum_2",
-          "like_momentum_1"
+          "mylist_momentum_2"
         ],
         "rank": 16
       },
@@ -420,20 +419,20 @@
         "title": "【平均年齢アラフィフ】ゆるる雪月花 踊ってみた【BARAが超オトナ11人で歌って踊ってみた】",
         "owner": "BARA / バラ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45914061/45914061.49704818.original/r640x360l?key=d1d7d06b2f91ffba8df0d9e528210be5039f3a6d2a8b3a3e73040d6e70bf27cc",
-        "score": 4624,
+        "score": 4628,
         "is_new": false,
         "counts": {
-          "view": 683,
+          "view": 687,
           "comment": 210,
           "mylist": 38,
           "like": 120
         },
         "momentum": {
-          "view": 6,
+          "view": 4,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 6
+          "score": 4
         },
         "badges": [],
         "rank": 17
@@ -452,15 +451,13 @@
           "like": 107
         },
         "momentum": {
-          "view": 6,
+          "view": 0,
           "comment": 0,
-          "mylist": 2,
-          "like": 2,
-          "score": 126
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
-        "badges": [
-          "mylist_momentum_2"
-        ],
+        "badges": [],
         "rank": 18
       },
       {
@@ -471,22 +468,21 @@
         "score": 4053,
         "is_new": false,
         "counts": {
-          "view": 6119,
+          "view": 6164,
           "comment": 37,
           "mylist": 36,
           "like": 75
         },
         "momentum": {
-          "view": 55,
+          "view": 45,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "view_total_2",
-          "view_momentum_2",
-          "mylist_momentum_3"
+          "view_momentum_2"
         ],
         "rank": 19
       },
@@ -498,20 +494,46 @@
         "score": 4036,
         "is_new": false,
         "counts": {
-          "view": 1162,
+          "view": 1183,
           "comment": 67,
           "mylist": 35,
           "like": 76
         },
         "momentum": {
-          "view": 20,
+          "view": 21,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 20
+      },
+      {
+        "id": "sm46023333",
+        "title": "【あリんこ】ユニ/踊ってみた【踊コレ春チャレンジ部門】",
+        "owner": "あかいろ",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023333/46023333.38972853.original/r640x360l?key=312192ac12f9e1e3d9f9c4582e3ed33de62825c858cc86afefd00ddaaa64bf15",
+        "score": 3928,
+        "is_new": false,
+        "counts": {
+          "view": 624,
+          "comment": 49,
+          "mylist": 38,
+          "like": 89
+        },
+        "momentum": {
+          "view": 11,
+          "comment": 8,
+          "mylist": 2,
+          "like": 5,
+          "score": 191
+        },
+        "badges": [
+          "mylist_momentum_1",
+          "like_momentum_1"
+        ],
+        "rank": 21
       },
       {
         "id": "sm46018851",
@@ -527,37 +549,37 @@
           "like": 88
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 0
         },
         "badges": [],
-        "rank": 21
+        "rank": 22
       },
       {
         "id": "sm46024849",
         "title": "【未灯＊ミラクル】突然ですが、アイドル始めました 踊ってみた【オリジナル振付】#踊コレ2026春",
         "owner": "belia",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024849/46024849.83018448.original/r640x360l?key=db5b45ededfa4da04c752614a03e7372e63f9fa9616d7e6b7894212bb1a0a7e3",
-        "score": 3788,
+        "score": 3795,
         "is_new": false,
         "counts": {
-          "view": 831,
+          "view": 838,
           "comment": 179,
           "mylist": 28,
           "like": 91
         },
         "momentum": {
-          "view": 1,
+          "view": 7,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 7
         },
         "badges": [],
-        "rank": 22
+        "rank": 23
       },
       {
         "id": "sm46006162",
@@ -573,34 +595,11 @@
           "like": 83
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 61
-        },
-        "badges": [],
-        "rank": 23
-      },
-      {
-        "id": "sm46023333",
-        "title": "【あリんこ】ユニ/踊ってみた【踊コレ春チャレンジ部門】",
-        "owner": "あかいろ",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023333/46023333.38972853.original/r640x360l?key=312192ac12f9e1e3d9f9c4582e3ed33de62825c858cc86afefd00ddaaa64bf15",
-        "score": 3737,
-        "is_new": false,
-        "counts": {
-          "view": 613,
-          "comment": 41,
-          "mylist": 36,
-          "like": 84
-        },
-        "momentum": {
-          "view": 7,
-          "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 87
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 24
@@ -610,20 +609,20 @@
         "title": "【にんじんごはん】ころしちゃった!  踊ってみた【踊コレ】",
         "owner": "白米",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45953713/45953713.98659748.original/r640x360l?key=d7028ebe05ad615c7eee1304da879b75b31bd422b75a26bd8e88dd43ddb79575",
-        "score": 3500,
+        "score": 3504,
         "is_new": false,
         "counts": {
-          "view": 517,
+          "view": 521,
           "comment": 30,
           "mylist": 34,
           "like": 81
         },
         "momentum": {
-          "view": 0,
+          "view": 4,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 4
         },
         "badges": [],
         "rank": 25
@@ -633,23 +632,51 @@
         "title": "【りぃそよ】ハオ 踊ってみた【踊コレ2026春】",
         "owner": "そよか",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46014773/46014773.71300147.original/r640x360l?key=688f095e7e79d3a0a81997b347b3191b2f043bbc9f041886db8ca8dd11a5cfad",
-        "score": 3486,
+        "score": 3491,
         "is_new": false,
         "counts": {
-          "view": 628,
-          "comment": 383,
+          "view": 630,
+          "comment": 414,
           "mylist": 33,
           "like": 75
         },
         "momentum": {
-          "view": 3,
-          "comment": 3,
+          "view": 2,
+          "comment": 31,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 5
         },
-        "badges": [],
+        "badges": [
+          "comment_momentum_1"
+        ],
         "rank": 26
+      },
+      {
+        "id": "sm46024525",
+        "title": "【コラボ踊ってみた】メイド☆至上主義 みやけ屋さんとごんぴで踊ってみた 【踊コレ2026春】",
+        "owner": "みやけ屋さん",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024525/46024525.89811503.original/r640x360l?key=b11d85e3be171830e0d06fa7b2af5f22aaeaef73659445cfeba696a7c86c53a7",
+        "score": 3445,
+        "is_new": false,
+        "counts": {
+          "view": 2511,
+          "comment": 251,
+          "mylist": 30,
+          "like": 64
+        },
+        "momentum": {
+          "view": 4,
+          "comment": 2,
+          "mylist": 1,
+          "like": 1,
+          "score": 81
+        },
+        "badges": [
+          "mylist_momentum_2",
+          "like_momentum_3"
+        ],
+        "rank": 27
       },
       {
         "id": "sm46019096",
@@ -659,36 +686,13 @@
         "score": 3380,
         "is_new": false,
         "counts": {
-          "view": 1422,
+          "view": 1425,
           "comment": 207,
           "mylist": 30,
           "like": 62
         },
         "momentum": {
-          "view": 1,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 27
-      },
-      {
-        "id": "sm46024525",
-        "title": "【コラボ踊ってみた】メイド☆至上主義 みやけ屋さんとごんぴで踊ってみた 【踊コレ2026春】",
-        "owner": "みやけ屋さん",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024525/46024525.89811503.original/r640x360l?key=b11d85e3be171830e0d06fa7b2af5f22aaeaef73659445cfeba696a7c86c53a7",
-        "score": 3364,
-        "is_new": false,
-        "counts": {
-          "view": 2507,
-          "comment": 249,
-          "mylist": 29,
-          "like": 63
-        },
-        "momentum": {
-          "view": 1,
+          "view": 3,
           "comment": 0,
           "mylist": 0,
           "like": 0,
@@ -702,20 +706,20 @@
         "title": "【ゆぬヰ.】セレナーデ 踊ってみた【踊コレ2026春】",
         "owner": "ゆぬヰ.",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020622/46020622.38050619.original/r640x360l?key=a1f4301185ca04725f1bd0610ea13c8570f1b9ebe401b35e21071d0b39cce23f",
-        "score": 3261,
+        "score": 3263,
         "is_new": false,
         "counts": {
-          "view": 374,
+          "view": 376,
           "comment": 72,
           "mylist": 34,
           "like": 76
         },
         "momentum": {
-          "view": 0,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 2
         },
         "badges": [],
         "rank": 29
@@ -748,20 +752,20 @@
         "title": "【桜久】スマイル*シンフォニー　踊ってみた【オリジナル振付／踊コレ2026春チャレンジ】",
         "owner": "陽向 桜久",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022289/46022289.30929976.original/r640x360l?key=ae5d4cd4ab00e2a122672bfbe4e92644ce1e766e3f291012cd89d6e63d6d0994",
-        "score": 3120,
+        "score": 3124,
         "is_new": false,
         "counts": {
-          "view": 296,
+          "view": 300,
           "comment": 46,
           "mylist": 32,
           "like": 77
         },
         "momentum": {
-          "view": 0,
+          "view": 4,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 4
         },
         "badges": [],
         "rank": 31
@@ -794,36 +798,13 @@
         "title": "【emny】ラプラスショコラ【踊ってみた】",
         "owner": "なむる",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027159/46027159.33515979.original/r640x360l?key=bb27ba0086b1c440d16a330ada920bdb9dd8f6a0e8128580b8575a81c538f5b4",
-        "score": 2997,
+        "score": 2998,
         "is_new": false,
         "counts": {
-          "view": 595,
+          "view": 596,
           "comment": 27,
           "mylist": 27,
           "like": 66
-        },
-        "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 33
-      },
-      {
-        "id": "sm46018387",
-        "title": "【来瑠まりか】リードコントロール - なるみや 踊ってみた【踊コレ2026春】",
-        "owner": "来瑠 まりか",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46018387/46018387.2522309.original/r640x360l?key=0e695a3989b35384fa2baeb09b439fb8bd3caca88e9814c218a0034fd8e34ab5",
-        "score": 2952,
-        "is_new": false,
-        "counts": {
-          "view": 368,
-          "comment": 41,
-          "mylist": 30,
-          "like": 69
         },
         "momentum": {
           "view": 1,
@@ -833,6 +814,29 @@
           "score": 1
         },
         "badges": [],
+        "rank": 33
+      },
+      {
+        "id": "sm46018387",
+        "title": "【来瑠まりか】リードコントロール - なるみや 踊ってみた【踊コレ2026春】",
+        "owner": "来瑠 まりか",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46018387/46018387.2522309.original/r640x360l?key=0e695a3989b35384fa2baeb09b439fb8bd3caca88e9814c218a0034fd8e34ab5",
+        "score": 2954,
+        "is_new": false,
+        "counts": {
+          "view": 370,
+          "comment": 41,
+          "mylist": 30,
+          "like": 69
+        },
+        "momentum": {
+          "view": 2,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 2
+        },
+        "badges": [],
         "rank": 34
       },
       {
@@ -840,10 +844,10 @@
         "title": "【オリジナル振付】ラストラス　踊ってみた【金平】",
         "owner": "金平(かねひら)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025083/46025083.52829416.original/r640x360l?key=8e36025409db7ac09d1d9324909ba48c90eccfec56fa5da936fb9e663ccf9d58",
-        "score": 2883,
+        "score": 2888,
         "is_new": false,
         "counts": {
-          "view": 611,
+          "view": 616,
           "comment": 128,
           "mylist": 25,
           "like": 63
@@ -863,20 +867,20 @@
         "title": "【楠あい】LOVELY MIKU'S DINER 踊ってみた【オリジナル振付】",
         "owner": "楠あい",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020902/46020902.82430164.original/r640x360l?key=742b25647860f7feed1340883bceb6ea9b7e734d3b9cbafb788be13e50ee2711",
-        "score": 2878,
+        "score": 2880,
         "is_new": false,
         "counts": {
-          "view": 516,
+          "view": 518,
           "comment": 22,
           "mylist": 23,
           "like": 72
         },
         "momentum": {
-          "view": 1,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 2
         },
         "badges": [],
         "rank": 36
@@ -886,10 +890,10 @@
         "title": "【踊コレ2026春_チャレンジ】casino　踊ってみた【にゃそりん】",
         "owner": "にゃそりん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024669/46024669.72321515.original/r640x360l?key=7452c8dc58937119cd451ecdff4ad81d90589f3e39ebcf36ffb7645973fa6303",
-        "score": 2871,
+        "score": 2874,
         "is_new": false,
         "counts": {
-          "view": 407,
+          "view": 410,
           "comment": 46,
           "mylist": 28,
           "like": 67
@@ -909,20 +913,20 @@
         "title": "【今吉ゆうま×負傷クレア】カイコ 踊ってみた【チャレンジ！！！】",
         "owner": "負傷クレア",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029547/46029547.3025146.original/r640x360l?key=d3d3b1f9a4842dd40bca94d87b1130c08129be179ffd7e14925db06294041573",
-        "score": 2854,
+        "score": 2857,
         "is_new": false,
         "counts": {
-          "view": 611,
+          "view": 614,
           "comment": 33,
           "mylist": 27,
           "like": 58
         },
         "momentum": {
-          "view": 1,
+          "view": 3,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 3
         },
         "badges": [],
         "rank": 38
@@ -932,10 +936,10 @@
         "title": "【さじ×ぴのひと】しう 踊ってみた【オリジナル振付】",
         "owner": "ぴのひと",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46016211/46016211.17884851.original/r640x360l?key=2ea3eb27859993bad2e9255cd5b9f68641bf7c1b42f4bd60517a2eeb1cc4a25e",
-        "score": 2762,
+        "score": 2763,
         "is_new": false,
         "counts": {
-          "view": 257,
+          "view": 258,
           "comment": 51,
           "mylist": 32,
           "like": 61
@@ -964,11 +968,11 @@
           "like": 63
         },
         "momentum": {
-          "view": 6,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 6
+          "score": 0
         },
         "badges": [],
         "rank": 40
@@ -987,11 +991,11 @@
           "like": 64
         },
         "momentum": {
-          "view": 3,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 0
         },
         "badges": [],
         "rank": 41
@@ -1010,11 +1014,11 @@
           "like": 57
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 62
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 42
@@ -1056,11 +1060,11 @@
           "like": 58
         },
         "momentum": {
-          "view": 3,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 0
         },
         "badges": [],
         "rank": 44
@@ -1073,14 +1077,14 @@
         "score": 2463,
         "is_new": false,
         "counts": {
-          "view": 913,
+          "view": 917,
           "comment": 34,
           "mylist": 21,
           "like": 47
         },
         "momentum": {
-          "view": 5,
-          "comment": 2,
+          "view": 4,
+          "comment": 0,
           "mylist": 0,
           "like": 0,
           "score": 0
@@ -1093,20 +1097,20 @@
         "title": "【よさ】アイロニ　踊ってみた【踊コレ2026春】",
         "owner": "よさ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46001008/46001008.73161929.original/r640x360l?key=885b0cb106947e128cb55f446bdf77230d51a78ade93ef9849b023ba26b20527",
-        "score": 2435,
+        "score": 2436,
         "is_new": false,
         "counts": {
-          "view": 193,
+          "view": 194,
           "comment": 21,
           "mylist": 28,
           "like": 56
         },
         "momentum": {
-          "view": 5,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 5
+          "score": 1
         },
         "badges": [],
         "rank": 46
@@ -1148,11 +1152,11 @@
           "like": 50
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 62
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 48
@@ -1162,17 +1166,17 @@
         "title": "踊ってみた【バトントワリング】【星屑オーケストラ】",
         "owner": "あいね",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023996/46023996.92101702.original/r640x360l?key=7671819367e618056b389ea428e3152f301f7c294717c4b70acdf8e15c136cf3",
-        "score": 2317,
+        "score": 2323,
         "is_new": false,
         "counts": {
-          "view": 586,
-          "comment": 110,
+          "view": 592,
+          "comment": 112,
           "mylist": 20,
           "like": 46
         },
         "momentum": {
           "view": 6,
-          "comment": 0,
+          "comment": 2,
           "mylist": 0,
           "like": 0,
           "score": 6
@@ -1188,17 +1192,17 @@
         "score": 2273,
         "is_new": false,
         "counts": {
-          "view": 854,
+          "view": 858,
           "comment": 132,
           "mylist": 17,
           "like": 47
         },
         "momentum": {
-          "view": 6,
-          "comment": 1,
-          "mylist": 1,
+          "view": 4,
+          "comment": 0,
+          "mylist": 0,
           "like": 0,
-          "score": 50
+          "score": 0
         },
         "badges": [],
         "rank": 50
@@ -1213,17 +1217,17 @@
         "score": 13583,
         "is_new": false,
         "counts": {
-          "view": 8516,
+          "view": 8586,
           "comment": 732,
           "mylist": 119,
           "like": 252
         },
         "momentum": {
-          "view": 79,
-          "comment": 2,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "view": 70,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "score_1",
@@ -1231,10 +1235,7 @@
           "comment_total_1",
           "like_total_1",
           "mylist_total_1",
-          "view_momentum_2",
-          "comment_momentum_3",
-          "mylist_momentum_2",
-          "like_momentum_2"
+          "view_momentum_1"
         ],
         "rank": 1
       },
@@ -1246,26 +1247,25 @@
         "score": 12184,
         "is_new": false,
         "counts": {
-          "view": 6216,
-          "comment": 343,
+          "view": 6236,
+          "comment": 349,
           "mylist": 111,
           "like": 220
         },
         "momentum": {
-          "view": 88,
+          "view": 20,
           "comment": 6,
           "mylist": 0,
-          "like": 1,
-          "score": 31
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "score_2",
           "view_total_2",
           "like_total_2",
           "mylist_total_2",
-          "view_momentum_1",
-          "comment_momentum_1",
-          "like_momentum_2"
+          "view_momentum_3",
+          "comment_momentum_2"
         ],
         "rank": 2
       },
@@ -1274,27 +1274,29 @@
         "title": "【ネモフィリア】HERO踊ってみた／オリジナル振付 踊コレ2026春U20",
         "owner": "ｻﾗ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026853/46026853.18942569.original/r640x360l?key=6bd8158d34cad2e828ee5b11742ea386a49dba66494085f359dc7b06c93b1956",
-        "score": 9441,
+        "score": 9512,
         "is_new": false,
         "counts": {
-          "view": 1814,
-          "comment": 470,
-          "mylist": 94,
+          "view": 1845,
+          "comment": 473,
+          "mylist": 95,
           "like": 191
         },
         "momentum": {
-          "view": 7,
-          "comment": 2,
-          "mylist": 0,
+          "view": 31,
+          "comment": 3,
+          "mylist": 1,
           "like": 0,
-          "score": 8
+          "score": 71
         },
         "badges": [
           "score_3",
           "comment_total_2",
           "like_total_3",
           "mylist_total_3",
-          "comment_momentum_3"
+          "view_momentum_2",
+          "comment_momentum_3",
+          "mylist_momentum_1"
         ],
         "rank": 3
       },
@@ -1306,13 +1308,13 @@
         "score": 9012,
         "is_new": false,
         "counts": {
-          "view": 2775,
+          "view": 2791,
           "comment": 220,
           "mylist": 79,
           "like": 168
         },
         "momentum": {
-          "view": 14,
+          "view": 16,
           "comment": 0,
           "mylist": 0,
           "like": 0,
@@ -1328,24 +1330,22 @@
         "title": "【オリジナル振付】だから僕は音楽を辞めた 踊ってみた【椎名】【踊コレ2026春_U20】",
         "owner": "椎名",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022118/46022118.61459933.original/r640x360l?key=80df43cf4dae12c8b2762da84c50d7e6e1a8746f36fa7227d7b3bee75d75b8d1",
-        "score": 7466,
+        "score": 7476,
         "is_new": false,
         "counts": {
-          "view": 1551,
-          "comment": 156,
+          "view": 1561,
+          "comment": 157,
           "mylist": 72,
           "like": 151
         },
         "momentum": {
-          "view": 17,
-          "comment": 0,
+          "view": 10,
+          "comment": 1,
           "mylist": 0,
           "like": 0,
-          "score": 17
+          "score": 10
         },
-        "badges": [
-          "view_momentum_3"
-        ],
+        "badges": [],
         "rank": 5
       },
       {
@@ -1353,26 +1353,24 @@
         "title": "【りぃそよはの】極楽浄土 JK3人娘で踊ってみた【踊コレ】",
         "owner": "りぃ。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46013053/46013053.53261662.original/r640x360l?key=b372f763b043204bd601eab44707eed25725e2f72472c6cc33819a501977441d",
-        "score": 5175,
+        "score": 5184,
         "is_new": false,
         "counts": {
-          "view": 1011,
-          "comment": 440,
+          "view": 1019,
+          "comment": 454,
           "mylist": 49,
           "like": 108
         },
         "momentum": {
-          "view": 4,
-          "comment": 3,
-          "mylist": 2,
-          "like": 2,
-          "score": 125
+          "view": 8,
+          "comment": 14,
+          "mylist": 0,
+          "like": 0,
+          "score": 9
         },
         "badges": [
           "comment_total_3",
-          "comment_momentum_2",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "comment_momentum_1"
         ],
         "rank": 6
       },
@@ -1384,13 +1382,13 @@
         "score": 4429,
         "is_new": false,
         "counts": {
-          "view": 1443,
+          "view": 1453,
           "comment": 191,
           "mylist": 36,
           "like": 87
         },
         "momentum": {
-          "view": 11,
+          "view": 10,
           "comment": 0,
           "mylist": 0,
           "like": 0,
@@ -1404,25 +1402,22 @@
         "title": "【はの】 デビル 踊ってみた オリジナル振付【踊コレU20】",
         "owner": "はの",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026347/46026347.54370536.original/r640x360l?key=f73bd97996cc877b0d799ef89e11fcbf03bface62e1a0fa6a4f3ec69e89f12c5",
-        "score": 4223,
+        "score": 4226,
         "is_new": false,
         "counts": {
-          "view": 547,
+          "view": 550,
           "comment": 162,
           "mylist": 38,
           "like": 107
         },
         "momentum": {
-          "view": 4,
+          "view": 3,
           "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 84
+          "mylist": 0,
+          "like": 0,
+          "score": 3
         },
-        "badges": [
-          "mylist_momentum_2",
-          "like_momentum_1"
-        ],
+        "badges": [],
         "rank": 8
       },
       {
@@ -1430,10 +1425,10 @@
         "title": "【オリジナル振付】らいふいずびゅーてぃふぉー 踊ってみた【ゆいな】【踊コレ2026春】",
         "owner": "ゆいな",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027519/46027519.32298565.original/r640x360l?key=a7112811578b1797ceea49c78acfe3a3c16b90082577ab80170b3b9d5d46d5b6",
-        "score": 2052,
+        "score": 2053,
         "is_new": false,
         "counts": {
-          "view": 230,
+          "view": 231,
           "comment": 21,
           "mylist": 23,
           "like": 45
@@ -1453,23 +1448,22 @@
         "title": "【踊コレ2026春_U20】僕は夢を持ったままの子どもでいるだけ□踊ってみた【ゆる。】",
         "owner": "ゆる。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020647/46020647.5153141.original/r640x360l?key=b665c59d019221ffc3b51f0a4228d556d448d749a311271f7a9ae81012bc498e",
-        "score": 2029,
+        "score": 2051,
         "is_new": false,
         "counts": {
-          "view": 285,
+          "view": 287,
           "comment": 40,
           "mylist": 21,
-          "like": 45
+          "like": 46
         },
         "momentum": {
-          "view": 3,
-          "comment": 1,
-          "mylist": 1,
-          "like": 2,
-          "score": 84
+          "view": 2,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1,
+          "score": 22
         },
         "badges": [
-          "mylist_momentum_2",
           "like_momentum_1"
         ],
         "rank": 10
@@ -1479,20 +1473,20 @@
         "title": "【踊コレ初投稿】テトリス踊ってみた【10歳】",
         "owner": "ねね",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46014648/46014648.57221786.original/r640x360l?key=e67173b5be0b42063ce18dea3ea0a6795cbbe821d62f680086b3970a567c2f03",
-        "score": 1170,
+        "score": 1174,
         "is_new": false,
         "counts": {
-          "view": 469,
+          "view": 473,
           "comment": 15,
           "mylist": 5,
           "like": 25
         },
         "momentum": {
-          "view": 3,
+          "view": 4,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 4
         },
         "badges": [],
         "rank": 11
@@ -1525,10 +1519,10 @@
         "title": "【踊コレ2026春_U20】デタバレネコ　19歳生主が踊ってみた【電撃ろむ】",
         "owner": "電撃ろむ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46031923/46031923.12089310.original/r640x360l?key=86f9b45d58fed46c26e6d30b27175551a7ba2f898c569aab9464d34581a877c2",
-        "score": 563,
+        "score": 569,
         "is_new": false,
         "counts": {
-          "view": 302,
+          "view": 308,
           "comment": 14,
           "mylist": 2,
           "like": 9
@@ -1599,14 +1593,14 @@
         "score": 13412,
         "is_new": false,
         "counts": {
-          "view": 3898,
-          "comment": 1020,
+          "view": 3911,
+          "comment": 1027,
           "mylist": 124,
           "like": 237
         },
         "momentum": {
-          "view": 12,
-          "comment": 0,
+          "view": 13,
+          "comment": 7,
           "mylist": 0,
           "like": 0,
           "score": 0
@@ -1616,7 +1610,8 @@
           "view_total_2",
           "comment_total_1",
           "like_total_3",
-          "mylist_total_1"
+          "mylist_total_1",
+          "comment_momentum_3"
         ],
         "rank": 1
       },
@@ -1625,28 +1620,27 @@
         "title": "【まや】SToRY 踊ってみた【オリジナル振付】",
         "owner": "まや",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023935/46023935.72076292.original/r640x360l?key=6993b4c34e1e703cfa24856bac74e9c7ec3da33e496c52dee69f647c9cead827",
-        "score": 12699,
+        "score": 12759,
         "is_new": false,
         "counts": {
-          "view": 8866,
+          "view": 9118,
           "comment": 298,
           "mylist": 122,
-          "like": 219
+          "like": 221
         },
         "momentum": {
-          "view": 122,
+          "view": 252,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 0,
+          "like": 2,
+          "score": 60
         },
         "badges": [
           "score_2",
           "view_total_1",
           "mylist_total_2",
           "view_momentum_1",
-          "mylist_momentum_1",
-          "like_momentum_2"
+          "like_momentum_1"
         ],
         "rank": 2
       },
@@ -1655,20 +1649,20 @@
         "title": "マシュマロ - DECO*27 踊ってみた / めーとる【オリジナル振付】 #歌踊コレ2026春",
         "owner": "ｍ(ﾒｰﾄﾙ)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026152/46026152.19516515.original/r640x360l?key=f1c932296b1bdce8705981571e739893fde04e33078d3cfbeec92d13a3413303",
-        "score": 11831,
+        "score": 11848,
         "is_new": false,
         "counts": {
-          "view": 2490,
-          "comment": 410,
+          "view": 2505,
+          "comment": 433,
           "mylist": 109,
           "like": 247
         },
         "momentum": {
-          "view": 20,
-          "comment": 4,
+          "view": 15,
+          "comment": 23,
           "mylist": 0,
           "like": 0,
-          "score": 21
+          "score": 17
         },
         "badges": [
           "score_3",
@@ -1677,7 +1671,7 @@
           "like_total_1",
           "mylist_total_3",
           "view_momentum_3",
-          "comment_momentum_2"
+          "comment_momentum_1"
         ],
         "rank": 3
       },
@@ -1686,27 +1680,25 @@
         "title": "【梅かっぱ】ルカルカ★ナイトフィーバー　踊ってみた【平成からタイムスリップ】",
         "owner": "梅かっぱ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028122/46028122.35162378.original/r640x360l?key=a70ec9e90aa6d1501b7288ce606b6ee30276c975a0ddf30ac073ffeeac70a3e2",
-        "score": 10968,
+        "score": 10978,
         "is_new": false,
         "counts": {
-          "view": 2348,
-          "comment": 605,
+          "view": 2356,
+          "comment": 625,
           "mylist": 92,
           "like": 244
         },
         "momentum": {
           "view": 8,
-          "comment": 43,
-          "mylist": 1,
-          "like": 2,
-          "score": 92
+          "comment": 20,
+          "mylist": 0,
+          "like": 0,
+          "score": 10
         },
         "badges": [
           "comment_total_2",
           "like_total_2",
-          "comment_momentum_1",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "comment_momentum_2"
         ],
         "rank": 4
       },
@@ -1715,24 +1707,23 @@
         "title": "【前ちゃん。】カラフルパレット・トレジャーハント 踊ってみた【オリジナル振付】",
         "owner": "前ちゃん。(まえちゃん)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028814/46028814.50385963.original/r640x360l?key=3a4343f72e001ef13858e2555f07fae06f111a1aa9b72dcf76902ffa43c2c907",
-        "score": 8503,
+        "score": 8526,
         "is_new": false,
         "counts": {
-          "view": 1865,
-          "comment": 180,
+          "view": 1888,
+          "comment": 183,
           "mylist": 85,
           "like": 161
         },
         "momentum": {
           "view": 23,
-          "comment": 0,
+          "comment": 3,
           "mylist": 0,
-          "like": 1,
-          "score": 43
+          "like": 0,
+          "score": 23
         },
         "badges": [
-          "view_momentum_2",
-          "like_momentum_2"
+          "view_momentum_2"
         ],
         "rank": 5
       },
@@ -1741,24 +1732,22 @@
         "title": "【居眠りおん】妄想哀歌 踊ってみた【オリジナル振付】#踊コレ2026春",
         "owner": "居眠りおん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027153/46027153.46487130.original/r640x360l?key=0d6f09ebb237df35243281285aa08e2b2d797fb3babe51f97a0ace17369d7ecc",
-        "score": 7608,
+        "score": 7616,
         "is_new": false,
         "counts": {
-          "view": 1649,
+          "view": 1657,
           "comment": 193,
           "mylist": 83,
           "like": 131
         },
         "momentum": {
-          "view": 4,
+          "view": 8,
           "comment": 0,
-          "mylist": 1,
+          "mylist": 0,
           "like": 0,
-          "score": 44
+          "score": 8
         },
-        "badges": [
-          "mylist_momentum_1"
-        ],
+        "badges": [],
         "rank": 6
       },
       {
@@ -1766,20 +1755,20 @@
         "title": "【はかせ】未来交響曲 踊ってみた　【10周年】【踊コレ2026春】",
         "owner": "はかせ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028939/46028939.63026878.original/r640x360l?key=4e923f3d08efcfd5f36f51ca55fc3a268613de8025c867ce31b4af8bb0b529b9",
-        "score": 1576,
+        "score": 1577,
         "is_new": false,
         "counts": {
-          "view": 294,
+          "view": 295,
           "comment": 25,
           "mylist": 14,
           "like": 36
         },
         "momentum": {
-          "view": 2,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 2
+          "score": 1
         },
         "badges": [],
         "rank": 7
@@ -1789,23 +1778,24 @@
         "title": "【みちゅう10周年】その心に灯る色は　踊ってみた【踊コレ2026春・ベテラン部門】",
         "owner": "みちる♪",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027410/46027410.85620999.original/r640x360l?key=36e51098b7f09dc69ed378119322816c2dba227e21f9450d39cc8faa79f693e9",
-        "score": 1424,
+        "score": 1548,
         "is_new": false,
         "counts": {
-          "view": 253,
-          "comment": 112,
-          "mylist": 13,
-          "like": 32
+          "view": 257,
+          "comment": 113,
+          "mylist": 15,
+          "like": 34
         },
         "momentum": {
-          "view": 5,
-          "comment": 2,
-          "mylist": 0,
-          "like": 0,
-          "score": 5
+          "view": 4,
+          "comment": 1,
+          "mylist": 2,
+          "like": 2,
+          "score": 124
         },
         "badges": [
-          "comment_momentum_3"
+          "mylist_momentum_1",
+          "like_momentum_1"
         ],
         "rank": 8
       },
@@ -1814,23 +1804,49 @@
         "title": "【わんくろりん】Q【オリジナル振付】",
         "owner": "クロ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026125/46026125.20961884.original/r640x360l?key=8301d6d7b7dcbf3d9d39bd83aec68b8ac11d8cadbb0417d78b78d97e473c729f",
-        "score": 1417,
+        "score": 1479,
         "is_new": false,
         "counts": {
-          "view": 196,
+          "view": 198,
           "comment": 15,
-          "mylist": 15,
-          "like": 31
+          "mylist": 16,
+          "like": 32
         },
         "momentum": {
-          "view": 3,
+          "view": 2,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 62
+        },
+        "badges": [
+          "mylist_momentum_2",
+          "like_momentum_2"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "sm46029267",
+        "title": "【踊コレ2026春】17×2歳が 美少女無罪♡パイレーツ 踊ってみた【なつめ@ベテラン枠】",
+        "owner": "なつめ",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029267/46029267.55656735.original/r640x360l?key=963f62c009a07a868e638cf1727f5edba014c2dd44cbf0b502525418c078b991",
+        "score": 1424,
+        "is_new": true,
+        "counts": {
+          "view": 163,
+          "comment": 17,
+          "mylist": 15,
+          "like": 33
+        },
+        "momentum": {
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 0
         },
         "badges": [],
-        "rank": 9
+        "rank": 10
       },
       {
         "id": "sm46009502",
@@ -1853,7 +1869,7 @@
           "score": 0
         },
         "badges": [],
-        "rank": 10
+        "rank": 11
       },
       {
         "id": "sm46008619",
@@ -1876,17 +1892,17 @@
           "score": 0
         },
         "badges": [],
-        "rank": 11
+        "rank": 12
       },
       {
         "id": "sm45980730",
         "title": "【アニー】キラー　踊ってみた【 #踊コレ2026春_ベテラン 】",
         "owner": "アニー@H7 ひ-13踊",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45980730/45980730.59174943.original/r640x360l?key=55c4d39b5ae9e3814591c2115c586448518d496af3da6971260f5676e9e614e8",
-        "score": 1014,
+        "score": 1015,
         "is_new": false,
         "counts": {
-          "view": 114,
+          "view": 115,
           "comment": 7,
           "mylist": 9,
           "like": 27
@@ -1894,51 +1910,25 @@
         "momentum": {
           "view": 1,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 61
+          "mylist": 0,
+          "like": 0,
+          "score": 1
         },
-        "badges": [
-          "mylist_momentum_1",
-          "like_momentum_2"
-        ],
-        "rank": 12
+        "badges": [],
+        "rank": 13
       },
       {
         "id": "sm46029293",
         "title": "【憂】ハッピーシンセサイザ 踊ってみた【思い出の曲】",
         "owner": "憂(うい)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029293/46029293.83689295.original/r640x360l?key=11f2845d307fd6b8d5abb55fe9529df2e5a1e7313f37a52488a33865144280e1",
-        "score": 1007,
+        "score": 1008,
         "is_new": false,
         "counts": {
-          "view": 107,
+          "view": 108,
           "comment": 8,
           "mylist": 10,
           "like": 25
-        },
-        "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 13
-      },
-      {
-        "id": "sm46019608",
-        "title": "【踊ってみた】アドベンチャー/YOASOBI　特別な日にお散歩してみた【みゅん♪*】",
-        "owner": "みゅん♪*",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019608/46019608.89949790.original/r640x360l?key=66d4cfe5af917c4a7a776a6867b1e54f452f227bc78ce99bc2c85cb2bce2ddf4",
-        "score": 1006,
-        "is_new": false,
-        "counts": {
-          "view": 185,
-          "comment": 10,
-          "mylist": 9,
-          "like": 23
         },
         "momentum": {
           "view": 1,
@@ -1951,27 +1941,52 @@
         "rank": 14
       },
       {
+        "id": "sm46019608",
+        "title": "【踊ってみた】アドベンチャー/YOASOBI　特別な日にお散歩してみた【みゅん♪*】",
+        "owner": "みゅん♪*",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019608/46019608.89949790.original/r640x360l?key=66d4cfe5af917c4a7a776a6867b1e54f452f227bc78ce99bc2c85cb2bce2ddf4",
+        "score": 1007,
+        "is_new": false,
+        "counts": {
+          "view": 186,
+          "comment": 10,
+          "mylist": 9,
+          "like": 23
+        },
+        "momentum": {
+          "view": 1,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 1
+        },
+        "badges": [],
+        "rank": 15
+      },
+      {
         "id": "sm46022644",
         "title": "【天天】ビーバー 　踊ってみた【踊コレ2026参戦！】",
         "owner": "天天",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022644/46022644.31702707.original/r640x360l?key=f09b5ac1892b1072747d44db35c6b701d0875c6b275d9a2558a0eafaa3a21a97",
-        "score": 863,
+        "score": 904,
         "is_new": false,
         "counts": {
-          "view": 122,
-          "comment": 11,
-          "mylist": 7,
+          "view": 123,
+          "comment": 13,
+          "mylist": 8,
           "like": 23
         },
         "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
+          "view": 1,
+          "comment": 2,
+          "mylist": 1,
           "like": 0,
-          "score": 0
+          "score": 41
         },
-        "badges": [],
-        "rank": 15
+        "badges": [
+          "mylist_momentum_2"
+        ],
+        "rank": 16
       },
       {
         "id": "sm46028357",
@@ -1994,30 +2009,30 @@
           "score": 0
         },
         "badges": [],
-        "rank": 16
+        "rank": 17
       },
       {
         "id": "sm46029859",
         "title": "【踊コレ2026春】ザムザ 踊ってみた【ベテランらしい】",
         "owner": "りぃさ@踊ってるよー！",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029859/46029859.22312000.original/r640x360l?key=af5c0f449fdc9c0a9fa86406b60852990b542738ef2d9edf03aa4093f81bd103",
-        "score": 701,
+        "score": 703,
         "is_new": false,
         "counts": {
-          "view": 98,
+          "view": 100,
           "comment": 30,
           "mylist": 6,
           "like": 18
         },
         "momentum": {
-          "view": 0,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 2
         },
         "badges": [],
-        "rank": 17
+        "rank": 18
       },
       {
         "id": "sm46025385",
@@ -2033,14 +2048,14 @@
           "like": 11
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 0
         },
         "badges": [],
-        "rank": 18
+        "rank": 19
       },
       {
         "id": "sm45955936",
@@ -2056,14 +2071,14 @@
           "like": 8
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 2
+          "score": 0
         },
         "badges": [],
-        "rank": 19
+        "rank": 20
       },
       {
         "id": "sm46015260",
@@ -2086,7 +2101,7 @@
           "score": 0
         },
         "badges": [],
-        "rank": 20
+        "rank": 21
       },
       {
         "id": "sm45955663",
@@ -2109,7 +2124,7 @@
           "score": 0
         },
         "badges": [],
-        "rank": 21
+        "rank": 22
       }
     ],
     "踊コレ_男子ソロ": [
@@ -2118,27 +2133,31 @@
         "title": "［ありく］ECHO 踊ってみた［オリジナル振付］",
         "owner": "ありく",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029047/46029047.95980147.original/r640x360l?key=462d1d8f07263d1292ac94dfb403977885e2ebbd5226a257e8a68022b38e1b23",
-        "score": 11972,
+        "score": 12110,
         "is_new": false,
         "counts": {
-          "view": 1837,
-          "comment": 751,
-          "mylist": 112,
-          "like": 279
+          "view": 1855,
+          "comment": 752,
+          "mylist": 114,
+          "like": 281
         },
         "momentum": {
-          "view": 7,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 7
+          "view": 18,
+          "comment": 1,
+          "mylist": 2,
+          "like": 2,
+          "score": 138
         },
         "badges": [
           "score_1",
           "view_total_1",
           "comment_total_2",
           "like_total_1",
-          "mylist_total_1"
+          "mylist_total_1",
+          "view_momentum_1",
+          "comment_momentum_1",
+          "mylist_momentum_1",
+          "like_momentum_2"
         ],
         "rank": 1
       },
@@ -2147,26 +2166,29 @@
         "title": "【あぶにぃ】ドラえもんのうた【踊ってみた】",
         "owner": "あぶにぃ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023317/46023317.41090453.original/r640x360l?key=0935ed13bcaf137f00ff355d28fdaa25fdc5ef6c2fb91b6bafa38ffeeb7a125b",
-        "score": 9598,
+        "score": 9662,
         "is_new": false,
         "counts": {
-          "view": 982,
-          "comment": 368,
-          "mylist": 92,
-          "like": 245
+          "view": 986,
+          "comment": 369,
+          "mylist": 93,
+          "like": 246
         },
         "momentum": {
-          "view": 5,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 5
+          "view": 4,
+          "comment": 1,
+          "mylist": 1,
+          "like": 1,
+          "score": 64
         },
         "badges": [
           "score_2",
           "comment_total_3",
           "like_total_2",
-          "mylist_total_2"
+          "mylist_total_2",
+          "comment_momentum_1",
+          "mylist_momentum_2",
+          "like_momentum_3"
         ],
         "rank": 2
       },
@@ -2175,10 +2197,10 @@
         "title": "【おたきあげ】オートファジー - 柊キライ　踊ってみた【踊コレ2026春】",
         "owner": "おたきあげ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028479/46028479.72902298.original/r640x360l?key=d9320c4df277a4322d3fcb7974c0ccf99ae17057d677e7a2429d97efa390d93e",
-        "score": 8276,
+        "score": 8281,
         "is_new": false,
         "counts": {
-          "view": 1163,
+          "view": 1168,
           "comment": 134,
           "mylist": 89,
           "like": 177
@@ -2203,27 +2225,26 @@
         "title": "【Daro】九龍レトロ - あらき(Rearrange Cover) 踊ってみた【オリジナル振付】",
         "owner": "Pandaro",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026712/46026712.71611994.original/r640x360l?key=1cd03bf36d2365fd0cbfa26472aed975773201d0e9718422e8ba55c71f2c3cba",
-        "score": 6526,
+        "score": 6558,
         "is_new": false,
         "counts": {
-          "view": 1506,
+          "view": 1518,
           "comment": 805,
           "mylist": 66,
-          "like": 115
+          "like": 116
         },
         "momentum": {
-          "view": 19,
+          "view": 12,
           "comment": 0,
-          "mylist": 2,
-          "like": 2,
-          "score": 139
+          "mylist": 0,
+          "like": 1,
+          "score": 32
         },
         "badges": [
           "view_total_2",
           "comment_total_1",
-          "view_momentum_1",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "view_momentum_2",
+          "like_momentum_3"
         ],
         "rank": 4
       },
@@ -2232,36 +2253,88 @@
         "title": "【踊コレ&即興ダンス】ヒトリエ/wowaka - アンノウン・マザーグース",
         "owner": "bit256",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45975648/45975648.27082109.original/r640x360l?key=04f7adf0c32773b9ab597621cc46d0499f2c36899d4e1680e7221248c3b964c9",
-        "score": 4164,
+        "score": 4227,
         "is_new": false,
         "counts": {
-          "view": 335,
+          "view": 338,
           "comment": 91,
-          "mylist": 40,
-          "like": 111
+          "mylist": 41,
+          "like": 112
         },
         "momentum": {
-          "view": 2,
+          "view": 3,
           "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 2
+          "mylist": 1,
+          "like": 1,
+          "score": 63
         },
-        "badges": [],
+        "badges": [
+          "mylist_momentum_2"
+        ],
         "rank": 5
+      },
+      {
+        "id": "sm46034178",
+        "title": "【鷹文】ブレインロット-東京真中  踊ってみた",
+        "owner": "鷹文(たかふみ)",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46034178/46034178.98880633.original/r640x360l?key=65afff67a9a8443b3a6610d9a483d7062bbe90b5996efbc8caa3ac1bbee2b6bc",
+        "score": 3221,
+        "is_new": false,
+        "counts": {
+          "view": 556,
+          "comment": 59,
+          "mylist": 23,
+          "like": 87
+        },
+        "momentum": {
+          "view": 11,
+          "comment": 0,
+          "mylist": 1,
+          "like": 3,
+          "score": 111
+        },
+        "badges": [
+          "view_momentum_3",
+          "mylist_momentum_2",
+          "like_momentum_1"
+        ],
+        "rank": 6
       },
       {
         "id": "sm46020615",
         "title": "デロスサントス　踊ってみた #踊コレ2026春",
         "owner": "ベネトナシュ@けん玉踊り手",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020615/46020615.62323609.original/r640x360l?key=903ce117f3c813c901a933a2144669bf579ddf0585ebc8928d52cac80ba8150e",
-        "score": 3193,
+        "score": 3196,
         "is_new": false,
         "counts": {
-          "view": 527,
+          "view": 530,
           "comment": 66,
           "mylist": 19,
           "like": 95
+        },
+        "momentum": {
+          "view": 3,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 3
+        },
+        "badges": [],
+        "rank": 7
+      },
+      {
+        "id": "sm46020713",
+        "title": "【雪姫】リアライズ 踊ってみた【オリジナル振付】【#踊コレ2026春】",
+        "owner": "雪姫",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020713/46020713.29294185.original/r640x360l?key=452e942bff0d90346ba48359e64b39fe7f4d74898853fd3cd28441b3d85d86ac",
+        "score": 2716,
+        "is_new": false,
+        "counts": {
+          "view": 474,
+          "comment": 25,
+          "mylist": 26,
+          "like": 60
         },
         "momentum": {
           "view": 3,
@@ -2271,61 +2344,7 @@
           "score": 23
         },
         "badges": [
-          "like_momentum_2"
-        ],
-        "rank": 6
-      },
-      {
-        "id": "sm46034178",
-        "title": "【鷹文】ブレインロット-東京真中  踊ってみた",
-        "owner": "鷹文(たかふみ)",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46034178/46034178.98880633.original/r640x360l?key=65afff67a9a8443b3a6610d9a483d7062bbe90b5996efbc8caa3ac1bbee2b6bc",
-        "score": 3110,
-        "is_new": false,
-        "counts": {
-          "view": 545,
-          "comment": 59,
-          "mylist": 22,
-          "like": 84
-        },
-        "momentum": {
-          "view": 14,
-          "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 94
-        },
-        "badges": [
-          "view_momentum_2",
-          "mylist_momentum_2",
-          "like_momentum_1"
-        ],
-        "rank": 7
-      },
-      {
-        "id": "sm46020713",
-        "title": "【雪姫】リアライズ 踊ってみた【オリジナル振付】【#踊コレ2026春】",
-        "owner": "雪姫",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020713/46020713.29294185.original/r640x360l?key=452e942bff0d90346ba48359e64b39fe7f4d74898853fd3cd28441b3d85d86ac",
-        "score": 2693,
-        "is_new": false,
-        "counts": {
-          "view": 471,
-          "comment": 25,
-          "mylist": 26,
-          "like": 59
-        },
-        "momentum": {
-          "view": 9,
-          "comment": 0,
-          "mylist": 2,
-          "like": 2,
-          "score": 129
-        },
-        "badges": [
-          "view_momentum_3",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "like_momentum_3"
         ],
         "rank": 8
       },
@@ -2334,26 +2353,22 @@
         "title": "【踊ってみた】Z会 CM ３連発",
         "owner": "ロムニキ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029868/46029868.57585261.original/r640x360l?key=fa1b0afac95a1b1abd998b1c2482d83d7c5efaff33d93628af4c76cda1e3f542",
-        "score": 2475,
+        "score": 2477,
         "is_new": false,
         "counts": {
-          "view": 490,
+          "view": 492,
           "comment": 54,
           "mylist": 10,
           "like": 79
         },
         "momentum": {
-          "view": 5,
-          "comment": 4,
-          "mylist": 1,
-          "like": 2,
-          "score": 85
+          "view": 2,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 2
         },
-        "badges": [
-          "comment_momentum_1",
-          "mylist_momentum_2",
-          "like_momentum_1"
-        ],
+        "badges": [],
         "rank": 9
       },
       {
@@ -2361,20 +2376,20 @@
         "title": "【べるしっか】リバースユニバース　踊ってみた【踊コレ2026春】",
         "owner": "べるしっか",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45972119/45972119.71961201.original/r640x360l?key=1f627a09bcc27e321164ce07873682092671f91c42d648cb5c3bea1fd19486bf",
-        "score": 2109,
+        "score": 2110,
         "is_new": false,
         "counts": {
-          "view": 285,
+          "view": 286,
           "comment": 44,
           "mylist": 18,
           "like": 55
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 10
@@ -2430,20 +2445,20 @@
         "title": "【こーくん】空想ブルームーン　踊ってみた【踊コレ2026春】",
         "owner": "こーくん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46008326/46008326.4961725.original/r640x360l?key=2d9292bc10a9703f5d2abb7cb28a4af3e16788b0f0c669933e3f035bd7f5493c",
-        "score": 958,
+        "score": 959,
         "is_new": false,
         "counts": {
-          "view": 77,
+          "view": 78,
           "comment": 13,
           "mylist": 10,
           "like": 24
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 13
@@ -2531,11 +2546,11 @@
           "like": 9
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 0
         },
         "badges": [],
         "rank": 17
@@ -2547,29 +2562,27 @@
         "title": "【とげち】夢紡ぎのワンダラー 踊ってみた【オリジナル振付／障子を切り拓け！】#踊コレ2026春",
         "owner": "とげち",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020628/46020628.21012268.original/r640x360l?key=43f869d4f08dcd9683e466898eb3587f404d7189e3880cd69928407c768d736b",
-        "score": 19127,
+        "score": 19128,
         "is_new": false,
         "counts": {
-          "view": 7310,
-          "comment": 378,
+          "view": 7426,
+          "comment": 381,
           "mylist": 182,
           "like": 333
         },
         "momentum": {
-          "view": 123,
-          "comment": 4,
-          "mylist": 2,
-          "like": 2,
-          "score": 160
+          "view": 116,
+          "comment": 3,
+          "mylist": 0,
+          "like": 0,
+          "score": 1
         },
         "badges": [
           "score_1",
           "like_total_2",
           "mylist_total_1",
-          "view_momentum_1",
-          "comment_momentum_3",
-          "mylist_momentum_2",
-          "like_momentum_3"
+          "view_momentum_2",
+          "comment_momentum_2"
         ],
         "rank": 1
       },
@@ -2578,25 +2591,25 @@
         "title": "【ぽるし】ブレインロット　踊ってみた",
         "owner": "ぽるし",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025415/46025415.94912889.original/r640x360l?key=f77a623f35b236b9c5ef1ea8e62d0d30a143847f7989bd674d37bc5c67060748",
-        "score": 15078,
+        "score": 15148,
         "is_new": false,
         "counts": {
-          "view": 2694,
+          "view": 2704,
           "comment": 243,
-          "mylist": 119,
-          "like": 380
+          "mylist": 120,
+          "like": 381
         },
         "momentum": {
-          "view": 13,
-          "comment": 4,
-          "mylist": 0,
-          "like": 2,
-          "score": 54
+          "view": 10,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 70
         },
         "badges": [
           "score_2",
           "like_total_1",
-          "comment_momentum_3",
+          "mylist_momentum_1",
           "like_momentum_3"
         ],
         "rank": 2
@@ -2606,20 +2619,20 @@
         "title": "【おうどん】愛言葉Ⅴ 踊ってみた【オリジナル振付】 #踊コレ2026春",
         "owner": "おうどん◥█◤∥",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026245/46026245.59611074.original/r640x360l?key=f4d308a3ac240515441ae2fb7f23b8102e67f94976af1f3dfa7f144fd41ea04f",
-        "score": 14379,
+        "score": 14380,
         "is_new": false,
         "counts": {
-          "view": 8242,
-          "comment": 598,
+          "view": 8363,
+          "comment": 605,
           "mylist": 134,
           "like": 254
         },
         "momentum": {
-          "view": 78,
-          "comment": 95,
-          "mylist": 1,
-          "like": 1,
-          "score": 89
+          "view": 121,
+          "comment": 7,
+          "mylist": 0,
+          "like": 0,
+          "score": 1
         },
         "badges": [
           "score_3",
@@ -2627,7 +2640,7 @@
           "comment_total_3",
           "like_total_3",
           "mylist_total_2",
-          "view_momentum_3",
+          "view_momentum_1",
           "comment_momentum_1"
         ],
         "rank": 3
@@ -2637,26 +2650,28 @@
         "title": "【❤︎】妄想アスパルテーム 踊ってみた【岩茶】#踊コレ2026春",
         "owner": "岩茶(いわちゃ)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46018623/46018623.19276821.original/r640x360l?key=c1fc5f07c96052cb243ac42867810ebc7b0fdf32cc1afe2771db1ac890165b1a",
-        "score": 14003,
+        "score": 14113,
         "is_new": false,
         "counts": {
-          "view": 10532,
-          "comment": 432,
-          "mylist": 131,
-          "like": 247
+          "view": 10599,
+          "comment": 433,
+          "mylist": 132,
+          "like": 249
         },
         "momentum": {
-          "view": 92,
-          "comment": 0,
-          "mylist": 2,
-          "like": 1,
-          "score": 130
+          "view": 67,
+          "comment": 1,
+          "mylist": 1,
+          "like": 2,
+          "score": 110
         },
         "badges": [
           "view_total_1",
           "mylist_total_3",
-          "view_momentum_2",
-          "mylist_momentum_2"
+          "view_momentum_3",
+          "comment_momentum_3",
+          "mylist_momentum_1",
+          "like_momentum_2"
         ],
         "rank": 4
       },
@@ -2665,26 +2680,25 @@
         "title": "【定点勝負!!】【ものくま】決戦スピリット 踊ってみた【オリ振り】",
         "owner": "ものくま",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025078/46025078.45329404.original/r640x360l?key=5c7c80f2b618a062ec2e3c0c12f1a490e6075f51b6b79319e238b9fb1208337f",
-        "score": 13362,
+        "score": 13392,
         "is_new": false,
         "counts": {
-          "view": 8966,
+          "view": 9023,
           "comment": 629,
           "mylist": 131,
-          "like": 225
+          "like": 226
         },
         "momentum": {
-          "view": 77,
+          "view": 57,
           "comment": 0,
-          "mylist": 2,
+          "mylist": 0,
           "like": 1,
-          "score": 130
+          "score": 30
         },
         "badges": [
           "view_total_2",
           "comment_total_2",
-          "mylist_total_3",
-          "mylist_momentum_2"
+          "like_momentum_3"
         ],
         "rank": 5
       },
@@ -2693,25 +2707,23 @@
         "title": "【むー】青 / DUSTCELL 踊ってみた【オリジナル振付】#踊コレ2026春",
         "owner": "むー",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021574/46021574.28845734.original/r640x360l?key=2c14705c1d0ebb65d074e5ba21687a25a1696b25de8f4a9840c0fd3df6af82ba",
-        "score": 12734,
+        "score": 12769,
         "is_new": false,
         "counts": {
-          "view": 3085,
-          "comment": 497,
+          "view": 3119,
+          "comment": 500,
           "mylist": 123,
           "like": 234
         },
         "momentum": {
-          "view": 36,
-          "comment": 6,
-          "mylist": 3,
-          "like": 3,
-          "score": 216
+          "view": 34,
+          "comment": 3,
+          "mylist": 0,
+          "like": 0,
+          "score": 35
         },
         "badges": [
-          "comment_momentum_2",
-          "mylist_momentum_1",
-          "like_momentum_2"
+          "comment_momentum_2"
         ],
         "rank": 6
       },
@@ -2720,22 +2732,24 @@
         "title": "【めざせ超会議！】ブループラネット オリジナル振付【めこた。】",
         "owner": "めこた。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026239/46026239.81727186.original/r640x360l?key=ea81363fb84183e0208ef4af97cc225f18df9903fc16d0b8a20e998936f022ab",
-        "score": 10721,
+        "score": 10811,
         "is_new": false,
         "counts": {
-          "view": 3530,
+          "view": 3556,
           "comment": 312,
           "mylist": 92,
-          "like": 203
+          "like": 206
         },
         "momentum": {
-          "view": 30,
+          "view": 26,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 0,
+          "like": 3,
+          "score": 90
         },
-        "badges": [],
+        "badges": [
+          "like_momentum_1"
+        ],
         "rank": 7
       },
       {
@@ -2743,24 +2757,24 @@
         "title": "【チャイナ】僕らまだアンダーグラウンド/Eve　踊ってみた【オリジナル振付】【 #踊コレ2026春】",
         "owner": "チャイナ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46018174/46018174.35908860.original/r640x360l?key=f485cff0575e377b4a1897144c9761bd91ae50ef313886f62c0d847e24bc3f97",
-        "score": 8279,
+        "score": 8367,
         "is_new": false,
         "counts": {
-          "view": 2044,
+          "view": 2072,
           "comment": 356,
-          "mylist": 75,
-          "like": 160
+          "mylist": 76,
+          "like": 161
         },
         "momentum": {
-          "view": 55,
-          "comment": 3,
-          "mylist": 2,
-          "like": 4,
-          "score": 215
+          "view": 28,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 88
         },
         "badges": [
-          "mylist_momentum_2",
-          "like_momentum_1"
+          "mylist_momentum_1",
+          "like_momentum_3"
         ],
         "rank": 8
       },
@@ -2769,20 +2783,20 @@
         "title": "【Fuwa】メリーゴーランド - ねこまんま 踊ってみた【 #踊コレ2026春 】",
         "owner": "Fuwa (ふわ)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025442/46025442.95036288.original/r640x360l?key=669aed8ce9255e46a50be644af7d84edfb2a29159390e2f22f203837f51fe7a2",
-        "score": 7642,
+        "score": 7650,
         "is_new": false,
         "counts": {
-          "view": 1173,
+          "view": 1181,
           "comment": 96,
           "mylist": 77,
           "like": 169
         },
         "momentum": {
-          "view": 7,
+          "view": 8,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 67
+          "mylist": 0,
+          "like": 0,
+          "score": 8
         },
         "badges": [],
         "rank": 9
@@ -2792,20 +2806,20 @@
         "title": "[ 安藤未知 ] ハローセカイ-オリジナル振付 [ #踊コレ2026春_女子ソロ ] プロセカ",
         "owner": "安藤未知",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027678/46027678.63973187.original/r640x360l?key=982ff5fe38eaa0d7c0e2fa41ce9b437a6d78219dd88a7f91a31f10f6ea681342",
-        "score": 7545,
+        "score": 7547,
         "is_new": false,
         "counts": {
-          "view": 1425,
+          "view": 1427,
           "comment": 1008,
           "mylist": 72,
           "like": 157
         },
         "momentum": {
-          "view": 3,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 2
         },
         "badges": [
           "comment_total_1"
@@ -2817,10 +2831,10 @@
         "title": "【踊コレ2026春】ワールドイズマイン 踊ってみた【にろ】",
         "owner": "にろ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020746/46020746.3748950.original/r640x360l?key=e3a58712f26124c0f2cf2b5fe70162c7d10b4b5ec0361dab48fbd10cef5c7273",
-        "score": 6902,
+        "score": 6903,
         "is_new": false,
         "counts": {
-          "view": 797,
+          "view": 798,
           "comment": 55,
           "mylist": 81,
           "like": 143
@@ -2840,20 +2854,20 @@
         "title": "[ るなち ] プレイ - Giga / 踊ってみた [ MVver＆定点ver ]",
         "owner": "るなち",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026890/46026890.55622146.original/r640x360l?key=6430ce6cf7bbdc5eb16476cc6b2dbd3b5d566c0699afcb566cbaa853888f5a96",
-        "score": 5813,
+        "score": 5815,
         "is_new": false,
         "counts": {
-          "view": 637,
+          "view": 639,
           "comment": 161,
           "mylist": 64,
           "like": 130
         },
         "momentum": {
-          "view": 1,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 2
         },
         "badges": [],
         "rank": 12
@@ -2863,59 +2877,13 @@
         "title": "【かずは】天樂 -双響- / ゆうゆ  踊ってみた【オリジナル振付】",
         "owner": "かずは",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023312/46023312.34490245.original/r640x360l?key=a205eeb695236f1c5d16181163114fb336a2957859cff080ed52a07030381a0a",
-        "score": 5334,
+        "score": 5340,
         "is_new": false,
         "counts": {
-          "view": 741,
+          "view": 747,
           "comment": 139,
           "mylist": 55,
           "like": 119
-        },
-        "momentum": {
-          "view": 2,
-          "comment": 0,
-          "mylist": 0,
-          "like": 1,
-          "score": 22
-        },
-        "badges": [],
-        "rank": 13
-      },
-      {
-        "id": "sm46026440",
-        "title": "【まぁり】マッドダイナー 踊ってみた【踊コレオリジナル振付】",
-        "owner": "まぁり",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026440/46026440.25918417.original/r640x360l?key=9a630b4949709d0d9dcd4ef5ee32b5c015c8e9c5b6b89961807dd61ee37f5814",
-        "score": 4636,
-        "is_new": false,
-        "counts": {
-          "view": 553,
-          "comment": 235,
-          "mylist": 45,
-          "like": 113
-        },
-        "momentum": {
-          "view": 4,
-          "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 64
-        },
-        "badges": [],
-        "rank": 14
-      },
-      {
-        "id": "sm46027194",
-        "title": "【踊コレ2026春】ギフト 踊ってみた【おさげ女子】",
-        "owner": "おさげ女子",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027194/46027194.66410852.original/r640x360l?key=c996c74623322482243d57eb3187d83847f5e9b9748ea486fdf10595e3fd7921",
-        "score": 4559,
-        "is_new": false,
-        "counts": {
-          "view": 888,
-          "comment": 118,
-          "mylist": 43,
-          "like": 97
         },
         "momentum": {
           "view": 6,
@@ -2925,6 +2893,52 @@
           "score": 6
         },
         "badges": [],
+        "rank": 13
+      },
+      {
+        "id": "sm46026440",
+        "title": "【まぁり】マッドダイナー 踊ってみた【踊コレオリジナル振付】",
+        "owner": "まぁり",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026440/46026440.25918417.original/r640x360l?key=9a630b4949709d0d9dcd4ef5ee32b5c015c8e9c5b6b89961807dd61ee37f5814",
+        "score": 4638,
+        "is_new": false,
+        "counts": {
+          "view": 555,
+          "comment": 235,
+          "mylist": 45,
+          "like": 113
+        },
+        "momentum": {
+          "view": 2,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 2
+        },
+        "badges": [],
+        "rank": 14
+      },
+      {
+        "id": "sm46027194",
+        "title": "【踊コレ2026春】ギフト 踊ってみた【おさげ女子】",
+        "owner": "おさげ女子",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027194/46027194.66410852.original/r640x360l?key=c996c74623322482243d57eb3187d83847f5e9b9748ea486fdf10595e3fd7921",
+        "score": 4578,
+        "is_new": false,
+        "counts": {
+          "view": 907,
+          "comment": 118,
+          "mylist": 43,
+          "like": 97
+        },
+        "momentum": {
+          "view": 19,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 19
+        },
+        "badges": [],
         "rank": 15
       },
       {
@@ -2932,20 +2946,20 @@
         "title": "【オリジナル振付】タランチュラ　踊ってみた【ヤマユリ】 #踊コレ2026春",
         "owner": "ヤマユリ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027399/46027399.25851405.original/r640x360l?key=0bd6e29190f29427088da41308fdbea1ae041ec1b7cc983dc475dbd8b4822175",
-        "score": 4128,
+        "score": 4155,
         "is_new": false,
         "counts": {
-          "view": 865,
+          "view": 872,
           "comment": 39,
           "mylist": 38,
-          "like": 87
+          "like": 88
         },
         "momentum": {
-          "view": 8,
+          "view": 7,
           "comment": 0,
-          "mylist": 1,
+          "mylist": 0,
           "like": 1,
-          "score": 68
+          "score": 27
         },
         "badges": [],
         "rank": 16
@@ -2955,128 +2969,13 @@
         "title": "【べ〜ぬ】 誰も知らないハッピーエンド 【踊ってみた】 #踊コレ2026春",
         "owner": "べ～ぬ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022846/46022846.67445089.original/r640x360l?key=54daaa5ebeceb803e4fdc84a030a6b93e2f1acdbd85a521410b0e0912702379f",
-        "score": 4028,
+        "score": 4029,
         "is_new": false,
         "counts": {
-          "view": 605,
+          "view": 606,
           "comment": 32,
           "mylist": 42,
           "like": 87
-        },
-        "momentum": {
-          "view": 2,
-          "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 62
-        },
-        "badges": [],
-        "rank": 17
-      },
-      {
-        "id": "sm46028333",
-        "title": "【おもち】個々々々々々人 踊ってみた【オリジナル振付】",
-        "owner": "おもち",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028333/46028333.12255312.original/r640x360l?key=705493b2b7415068497677e4140b36e77cf84fcea972f1397a88e380afd08dae",
-        "score": 3990,
-        "is_new": false,
-        "counts": {
-          "view": 1056,
-          "comment": 146,
-          "mylist": 30,
-          "like": 86
-        },
-        "momentum": {
-          "view": 11,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 11
-        },
-        "badges": [],
-        "rank": 18
-      },
-      {
-        "id": "sm46024271",
-        "title": "【じゃね】晴る - ヨルシカ【踊ってみた】#歌踊コレ2026春",
-        "owner": "じゃね",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024271/46024271.67673597.original/r640x360l?key=8496dde97f9836f62eb4e091095d2ab2e99da56753f5089e74e8c593b227059b",
-        "score": 3430,
-        "is_new": false,
-        "counts": {
-          "view": 641,
-          "comment": 92,
-          "mylist": 34,
-          "like": 71
-        },
-        "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 19
-      },
-      {
-        "id": "sm46027028",
-        "title": "【ぴか。】アンテナ39【踊ってみた】",
-        "owner": "ぴか。",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027028/46027028.4124300.original/r640x360l?key=a64b99044f6280f18897b91df07f45f991ecceb551e5980e1066f2e3e7a2c196",
-        "score": 2433,
-        "is_new": false,
-        "counts": {
-          "view": 450,
-          "comment": 32,
-          "mylist": 23,
-          "like": 53
-        },
-        "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 20
-      },
-      {
-        "id": "sm46028041",
-        "title": "【オリジナル振り付け】1000年生きてる【さらさ】【踊コレ2026春】",
-        "owner": "さらさ",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028041/46028041.21671717.original/r640x360l?key=05233522c190f83f7182b809df2273ca58f8d5020eb573be3894cb685609e4ad",
-        "score": 2319,
-        "is_new": false,
-        "counts": {
-          "view": 197,
-          "comment": 26,
-          "mylist": 27,
-          "like": 52
-        },
-        "momentum": {
-          "view": 0,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 0
-        },
-        "badges": [],
-        "rank": 21
-      },
-      {
-        "id": "sm46028768",
-        "title": "【踊コレ】劇場版ハローセカイ踊ってみた【プロセカ】",
-        "owner": "☆はるにゃん☆春歌まりん☆",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028768/46028768.16843663.original/r640x360l?key=f15f9216875d323334e3ec229a8b2417e9aaf463316e77a635feb402f1fefbf2",
-        "score": 2099,
-        "is_new": false,
-        "counts": {
-          "view": 348,
-          "comment": 119,
-          "mylist": 19,
-          "like": 49
         },
         "momentum": {
           "view": 1,
@@ -3086,6 +2985,123 @@
           "score": 1
         },
         "badges": [],
+        "rank": 17
+      },
+      {
+        "id": "sm46028333",
+        "title": "【おもち】個々々々々々人 踊ってみた【オリジナル振付】",
+        "owner": "おもち",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028333/46028333.12255312.original/r640x360l?key=705493b2b7415068497677e4140b36e77cf84fcea972f1397a88e380afd08dae",
+        "score": 3998,
+        "is_new": false,
+        "counts": {
+          "view": 1064,
+          "comment": 146,
+          "mylist": 30,
+          "like": 86
+        },
+        "momentum": {
+          "view": 8,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 8
+        },
+        "badges": [],
+        "rank": 18
+      },
+      {
+        "id": "sm46024271",
+        "title": "【じゃね】晴る - ヨルシカ【踊ってみた】#歌踊コレ2026春",
+        "owner": "じゃね",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024271/46024271.67673597.original/r640x360l?key=8496dde97f9836f62eb4e091095d2ab2e99da56753f5089e74e8c593b227059b",
+        "score": 3453,
+        "is_new": false,
+        "counts": {
+          "view": 644,
+          "comment": 92,
+          "mylist": 34,
+          "like": 72
+        },
+        "momentum": {
+          "view": 3,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1,
+          "score": 23
+        },
+        "badges": [],
+        "rank": 19
+      },
+      {
+        "id": "sm46027028",
+        "title": "【ぴか。】アンテナ39【踊ってみた】",
+        "owner": "ぴか。",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027028/46027028.4124300.original/r640x360l?key=a64b99044f6280f18897b91df07f45f991ecceb551e5980e1066f2e3e7a2c196",
+        "score": 2434,
+        "is_new": false,
+        "counts": {
+          "view": 451,
+          "comment": 32,
+          "mylist": 23,
+          "like": 53
+        },
+        "momentum": {
+          "view": 1,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 1
+        },
+        "badges": [],
+        "rank": 20
+      },
+      {
+        "id": "sm46028041",
+        "title": "【オリジナル振り付け】1000年生きてる【さらさ】【踊コレ2026春】",
+        "owner": "さらさ",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028041/46028041.21671717.original/r640x360l?key=05233522c190f83f7182b809df2273ca58f8d5020eb573be3894cb685609e4ad",
+        "score": 2380,
+        "is_new": false,
+        "counts": {
+          "view": 198,
+          "comment": 26,
+          "mylist": 28,
+          "like": 53
+        },
+        "momentum": {
+          "view": 1,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 61
+        },
+        "badges": [
+          "mylist_momentum_1"
+        ],
+        "rank": 21
+      },
+      {
+        "id": "sm46028768",
+        "title": "【踊コレ】劇場版ハローセカイ踊ってみた【プロセカ】",
+        "owner": "☆はるにゃん☆春歌まりん☆",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028768/46028768.16843663.original/r640x360l?key=f15f9216875d323334e3ec229a8b2417e9aaf463316e77a635feb402f1fefbf2",
+        "score": 2101,
+        "is_new": false,
+        "counts": {
+          "view": 350,
+          "comment": 119,
+          "mylist": 19,
+          "like": 49
+        },
+        "momentum": {
+          "view": 2,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0,
+          "score": 2
+        },
+        "badges": [],
         "rank": 22
       },
       {
@@ -3093,23 +3109,23 @@
         "title": "【おもち】デロスサントス 踊ってみた【オリジナル振付】",
         "owner": "おもち",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46032676/46032676.40350110.original/r640x360l?key=c9ece85451ee0126fcd3128a718f2aabd03f9c95b991d0a0534ab9bf411d311f",
-        "score": 2072,
+        "score": 2075,
         "is_new": false,
         "counts": {
-          "view": 334,
-          "comment": 184,
+          "view": 337,
+          "comment": 187,
           "mylist": 17,
           "like": 52
         },
         "momentum": {
-          "view": 7,
-          "comment": 4,
+          "view": 3,
+          "comment": 3,
           "mylist": 0,
-          "like": 1,
-          "score": 27
+          "like": 0,
+          "score": 3
         },
         "badges": [
-          "comment_momentum_3"
+          "comment_momentum_2"
         ],
         "rank": 23
       },
@@ -3118,20 +3134,20 @@
         "title": "【すかチル】フォニイ 踊ってみた",
         "owner": "すかチル(ちろる)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46013011/46013011.75654.original/r640x360l?key=65edea310b2b37d747f2a8f24c3c445612ea4f605b820820bdbcabe3ea64277e",
-        "score": 1800,
+        "score": 1801,
         "is_new": false,
         "counts": {
-          "view": 216,
+          "view": 217,
           "comment": 41,
           "mylist": 18,
           "like": 43
         },
         "momentum": {
-          "view": 4,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 4
+          "score": 1
         },
         "badges": [],
         "rank": 24
@@ -3164,10 +3180,10 @@
         "title": "【はかせ】空想ブルームーン 歌って踊ってみた【踊コレ2026春】",
         "owner": "はかせ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029190/46029190.38171146.original/r640x360l?key=c56eecffd9c36f88229a4b225dd3904992bd4396a9da11f410ad3fded902e212",
-        "score": 1463,
+        "score": 1465,
         "is_new": false,
         "counts": {
-          "view": 321,
+          "view": 323,
           "comment": 29,
           "mylist": 12,
           "like": 33
@@ -3210,10 +3226,10 @@
         "title": "【天照】アルストロメリア 踊ってみた【オリジナル振付】",
         "owner": "天照",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46010565/46010565.78240228.original/r640x360l?key=55ca69e4dae38ffb47552bb535cb442cc681c434df78988adbbbab7ebd03214d",
-        "score": 1278,
+        "score": 1279,
         "is_new": false,
         "counts": {
-          "view": 138,
+          "view": 139,
           "comment": 9,
           "mylist": 15,
           "like": 27
@@ -3236,13 +3252,13 @@
         "score": 1201,
         "is_new": false,
         "counts": {
-          "view": 677,
+          "view": 681,
           "comment": 10,
           "mylist": 6,
           "like": 23
         },
         "momentum": {
-          "view": 3,
+          "view": 4,
           "comment": 0,
           "mylist": 0,
           "like": 0,
@@ -3256,20 +3272,20 @@
         "title": "【踊コレ2026春】ダーリンゲームオーバーラブ【踊ってみた】",
         "owner": "春原あめ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46020847/46020847.71528849.original/r640x360l?key=d127963220461b7e7c4a632bf0712df6813da292ff035bbd522b27d68cd4d59e",
-        "score": 1188,
+        "score": 1191,
         "is_new": false,
         "counts": {
-          "view": 348,
+          "view": 351,
           "comment": 9,
           "mylist": 9,
           "like": 24
         },
         "momentum": {
-          "view": 5,
+          "view": 3,
           "comment": 0,
           "mylist": 0,
-          "like": 1,
-          "score": 25
+          "like": 0,
+          "score": 3
         },
         "badges": [],
         "rank": 30
@@ -3311,11 +3327,11 @@
           "like": 26
         },
         "momentum": {
-          "view": 3,
+          "view": 0,
           "comment": 0,
-          "mylist": 2,
-          "like": 1,
-          "score": 103
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 32
@@ -3325,20 +3341,20 @@
         "title": "【踊コレ2026春_女子ソロ】Bのリベンジ／らる【踊ってみた】",
         "owner": "らる",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028243/46028243.73421833.original/r640x360l?key=db92a9bf268ae06028ff471c2c1d1c68425ea182534ea6ecc5c17ae97453eaca",
-        "score": 936,
+        "score": 937,
         "is_new": false,
         "counts": {
-          "view": 154,
+          "view": 155,
           "comment": 21,
           "mylist": 8,
           "like": 23
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 33
@@ -3371,20 +3387,20 @@
         "title": "【踊コレ2026春】GIFT【踊ってみた】",
         "owner": "まちゃんがちゃんの踊ってみた",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023449/46023449.46111701.original/r640x360l?key=b63dc367880263a4b1cec5d17e3076088513331b6672171bd2ab9792df578ea2",
-        "score": 650,
+        "score": 651,
         "is_new": false,
         "counts": {
-          "view": 130,
+          "view": 131,
           "comment": 9,
           "mylist": 5,
           "like": 16
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 35
@@ -3417,20 +3433,20 @@
         "title": "【踊ってみた】ハローセカイ【踊コレ2026春】",
         "owner": "東あも",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46031671/46031671.65765359.original/r640x360l?key=a65f00135740487b571da523fc7a57ccf2fefb6ec749b92d601a04eaf53c45df",
-        "score": 470,
+        "score": 471,
         "is_new": false,
         "counts": {
-          "view": 70,
+          "view": 71,
           "comment": 8,
           "mylist": 4,
           "like": 12
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 37
@@ -3440,10 +3456,10 @@
         "title": "【踊コレ2026春】みんなみくみくにしてあげる♪ 【してやんよ】踊ってみた｜初音ミクになっちゃった…？",
         "owner": "七瀬 柚香",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46034813/46034813.5023546.original/r640x360l?key=0c3e580666cff3246bd56158e787c963799dd20bf3af0105bc9cd5b8f6c41862",
-        "score": 415,
+        "score": 418,
         "is_new": false,
         "counts": {
-          "view": 34,
+          "view": 37,
           "comment": 17,
           "mylist": 5,
           "like": 9
@@ -3557,26 +3573,29 @@
         "title": "【ありく×おたきあげ】いますぐ輪廻 踊ってみた",
         "owner": "ありく",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027142/46027142.75345278.original/r640x360l?key=61536ab2b2ac861c729a16f6701add7358378768904d58b86f225023bdb9ce0f",
-        "score": 13899,
+        "score": 13978,
         "is_new": false,
         "counts": {
-          "view": 1993,
-          "comment": 462,
-          "mylist": 139,
-          "like": 315
+          "view": 2008,
+          "comment": 505,
+          "mylist": 140,
+          "like": 316
         },
         "momentum": {
-          "view": 4,
-          "comment": 0,
+          "view": 15,
+          "comment": 43,
           "mylist": 1,
           "like": 1,
-          "score": 64
+          "score": 79
         },
         "badges": [
           "score_1",
           "comment_total_2",
           "like_total_1",
-          "mylist_total_1"
+          "mylist_total_1",
+          "comment_momentum_2",
+          "mylist_momentum_3",
+          "like_momentum_3"
         ],
         "rank": 1
       },
@@ -3588,106 +3607,48 @@
         "score": 7835,
         "is_new": false,
         "counts": {
-          "view": 2863,
+          "view": 2881,
           "comment": 557,
           "mylist": 74,
           "like": 136
         },
         "momentum": {
-          "view": 25,
+          "view": 18,
           "comment": 0,
-          "mylist": 2,
-          "like": 2,
-          "score": 160
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "score_2",
           "view_total_1",
           "comment_total_1",
-          "like_total_3",
-          "mylist_total_3",
-          "view_momentum_3",
-          "mylist_momentum_2",
-          "like_momentum_2"
+          "mylist_total_3"
         ],
         "rank": 2
-      },
-      {
-        "id": "sm45979719",
-        "title": "【OWL BREAKER'S】「新人類」踊ってみた【オリジナル振付】",
-        "owner": "Tee(てぃー)",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45979719/45979719.44448550.original/r640x360l?key=e67892caf08ec427aaf45f6af6f259b9ac5ff4b969c1508b3582324e906fee7a",
-        "score": 6803,
-        "is_new": false,
-        "counts": {
-          "view": 2203,
-          "comment": 335,
-          "mylist": 67,
-          "like": 114
-        },
-        "momentum": {
-          "view": 18,
-          "comment": 1,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
-        },
-        "badges": [
-          "score_3",
-          "mylist_momentum_3",
-          "like_momentum_3"
-        ],
-        "rank": 3
-      },
-      {
-        "id": "sm46025730",
-        "title": "ビノミ / MARETU 踊ってみた 【オリジナル振付】",
-        "owner": "みこいす",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025730/46025730.21864052.original/r640x360l?key=29c3e238d6a02214135fd37553be12b0322a5cedafe7c2a3e480fd99217751ec",
-        "score": 6402,
-        "is_new": false,
-        "counts": {
-          "view": 2611,
-          "comment": 328,
-          "mylist": 62,
-          "like": 109
-        },
-        "momentum": {
-          "view": 23,
-          "comment": 55,
-          "mylist": 1,
-          "like": 1,
-          "score": 85
-        },
-        "badges": [
-          "view_total_3",
-          "comment_momentum_1",
-          "mylist_momentum_3",
-          "like_momentum_3"
-        ],
-        "rank": 4
       },
       {
         "id": "sm46035240",
         "title": "【SLH+まさと+HIDE】不可Boom踊ってみた（定点ver.）【踊コレ2026春】",
         "owner": "SHARE LOCK HOMES",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46035240/46035240.7382308.original/r640x360l?key=62255eb29dd584a4ce9b6410a09279a474b2ac3251572e05f8bb35a78b871fdb",
-        "score": 6365,
+        "score": 7097,
         "is_new": false,
         "counts": {
-          "view": 466,
-          "comment": 198,
-          "mylist": 77,
-          "like": 140
+          "view": 556,
+          "comment": 212,
+          "mylist": 85,
+          "like": 156
         },
         "momentum": {
-          "view": 61,
+          "view": 90,
           "comment": 14,
-          "mylist": 7,
-          "like": 15,
-          "score": 642
+          "mylist": 8,
+          "like": 16,
+          "score": 732
         },
         "badges": [
+          "score_3",
           "like_total_2",
           "mylist_total_2",
           "view_momentum_1",
@@ -3695,56 +3656,112 @@
           "mylist_momentum_1",
           "like_momentum_1"
         ],
-        "rank": 5
+        "rank": 3
       },
       {
-        "id": "sm46028335",
-        "title": "【Libre Wolf Jam】 バゥムクゥヘン・エンドロゥル 踊ってみた【オリジナル振付】 #歌踊コレ2026春",
-        "owner": "Libre Wolf Jam",
-        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028335/46028335.95825348.original/r640x360l?key=bc414cff30d2c43938533a2e8823b1ac7d1df1a822c3e0ea16f3e99031504618",
-        "score": 5935,
+        "id": "sm45979719",
+        "title": "【OWL BREAKER'S】「新人類」踊ってみた【オリジナル振付】",
+        "owner": "Tee(てぃー)",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/45979719/45979719.44448550.original/r640x360l?key=e67892caf08ec427aaf45f6af6f259b9ac5ff4b969c1508b3582324e906fee7a",
+        "score": 6883,
         "is_new": false,
         "counts": {
-          "view": 955,
-          "comment": 402,
-          "mylist": 58,
-          "like": 131
+          "view": 2218,
+          "comment": 335,
+          "mylist": 68,
+          "like": 115
         },
         "momentum": {
-          "view": 12,
-          "comment": 49,
-          "mylist": 0,
-          "like": 0,
-          "score": 17
+          "view": 15,
+          "comment": 0,
+          "mylist": 1,
+          "like": 1,
+          "score": 80
         },
         "badges": [
-          "comment_total_3",
+          "mylist_momentum_3",
+          "like_momentum_3"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "sm46025730",
+        "title": "ビノミ / MARETU 踊ってみた 【オリジナル振付】",
+        "owner": "みこいす",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025730/46025730.21864052.original/r640x360l?key=29c3e238d6a02214135fd37553be12b0322a5cedafe7c2a3e480fd99217751ec",
+        "score": 6407,
+        "is_new": false,
+        "counts": {
+          "view": 2633,
+          "comment": 371,
+          "mylist": 62,
+          "like": 109
+        },
+        "momentum": {
+          "view": 22,
+          "comment": 43,
+          "mylist": 0,
+          "like": 0,
+          "score": 5
+        },
+        "badges": [
+          "view_total_3",
+          "view_momentum_3",
           "comment_momentum_2"
         ],
-        "rank": 6
+        "rank": 5
       },
       {
         "id": "sm46025406",
         "title": "【ぺすか×こ茶。】奈奈落落 踊ってみた【オリジナル振付】#踊コレ2026春_男子コラボ",
         "owner": "ぺすか",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025406/46025406.44076911.original/r640x360l?key=3dd712cc9a54ab8dcfd34fbb70d27bd0affdb556e40268154a932a5a57428678",
-        "score": 5880,
+        "score": 6090,
         "is_new": false,
         "counts": {
-          "view": 541,
-          "comment": 190,
-          "mylist": 63,
-          "like": 140
+          "view": 551,
+          "comment": 192,
+          "mylist": 66,
+          "like": 144
         },
         "momentum": {
-          "view": 6,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0,
-          "score": 6
+          "view": 10,
+          "comment": 2,
+          "mylist": 3,
+          "like": 4,
+          "score": 210
         },
         "badges": [
-          "like_total_2"
+          "like_total_3",
+          "mylist_momentum_2",
+          "like_momentum_2"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "sm46028335",
+        "title": "【Libre Wolf Jam】 バゥムクゥヘン・エンドロゥル 踊ってみた【オリジナル振付】 #歌踊コレ2026春",
+        "owner": "Libre Wolf Jam",
+        "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028335/46028335.95825348.original/r640x360l?key=bc414cff30d2c43938533a2e8823b1ac7d1df1a822c3e0ea16f3e99031504618",
+        "score": 5978,
+        "is_new": false,
+        "counts": {
+          "view": 971,
+          "comment": 471,
+          "mylist": 58,
+          "like": 132
+        },
+        "momentum": {
+          "view": 16,
+          "comment": 69,
+          "mylist": 0,
+          "like": 1,
+          "score": 43
+        },
+        "badges": [
+          "comment_total_3",
+          "comment_momentum_1",
+          "like_momentum_3"
         ],
         "rank": 7
       },
@@ -3756,7 +3773,7 @@
         "score": 4963,
         "is_new": false,
         "counts": {
-          "view": 2839,
+          "view": 2866,
           "comment": 38,
           "mylist": 50,
           "like": 82
@@ -3764,15 +3781,13 @@
         "momentum": {
           "view": 27,
           "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 110
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "view_total_2",
-          "view_momentum_2",
-          "mylist_momentum_3",
-          "like_momentum_2"
+          "view_momentum_2"
         ],
         "rank": 8
       },
@@ -3781,20 +3796,20 @@
         "title": "【CAIND】メロウ/須田景凪　踊ってみた【#踊コレ2026春】",
         "owner": "ベネトナシュ@けん玉踊り手",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027603/46027603.24435730.original/r640x360l?key=efdca9d28fc925583579a6a53c5af19468d096901cee79132f64268ae6a9b920",
-        "score": 4899,
+        "score": 4901,
         "is_new": false,
         "counts": {
-          "view": 1057,
+          "view": 1059,
           "comment": 225,
           "mylist": 44,
           "like": 103
         },
         "momentum": {
-          "view": 3,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 2
         },
         "badges": [],
         "rank": 9
@@ -3804,20 +3819,20 @@
         "title": "【むらくも。ようむ】Baby Maniacs 踊ってみた【踊コレ2026春】",
         "owner": "むらくも。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46000623/46000623.93010779.original/r640x360l?key=0b337be6b6c0df1d040219cf23680076dfe7a8c6c3bb5cb5e5368f8ba86c7df8",
-        "score": 3170,
+        "score": 3173,
         "is_new": false,
         "counts": {
-          "view": 426,
-          "comment": 41,
+          "view": 429,
+          "comment": 43,
           "mylist": 33,
           "like": 71
         },
         "momentum": {
           "view": 3,
-          "comment": 10,
+          "comment": 2,
           "mylist": 0,
           "like": 0,
-          "score": 4
+          "score": 3
         },
         "badges": [],
         "rank": 10
@@ -3827,20 +3842,20 @@
         "title": "【 #踊コレ2026春_男子コラボ 】ミューティレーション 踊ってみた【オリジナル振付】",
         "owner": "くろぬん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46016933/46016933.61805480.original/r640x360l?key=ad1b6fb51bdbbb6c3fa80b2bede38d0889fb27ee3dc2ddf125fb63a977fbd1e3",
-        "score": 1607,
+        "score": 1628,
         "is_new": false,
         "counts": {
-          "view": 127,
+          "view": 128,
           "comment": 9,
           "mylist": 16,
-          "like": 42
+          "like": 43
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
-          "like": 0,
-          "score": 0
+          "like": 1,
+          "score": 21
         },
         "badges": [],
         "rank": 11
@@ -3875,20 +3890,20 @@
         "title": "【すぅすなもちさゆみおん】魔法少女幸福論　踊ってみた",
         "owner": "さゆき。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027841/46027841.66632256.original/r640x360l?key=8d408c3a33baf29e599c6d3e0d50508ee4b9ded0c0890d6a7a073adbbedce9f4",
-        "score": 32340,
+        "score": 32343,
         "is_new": false,
         "counts": {
-          "view": 17788,
-          "comment": 1004,
+          "view": 17897,
+          "comment": 1034,
           "mylist": 310,
           "like": 558
         },
         "momentum": {
-          "view": 90,
-          "comment": 4,
-          "mylist": 2,
-          "like": 3,
-          "score": 190
+          "view": 109,
+          "comment": 30,
+          "mylist": 0,
+          "like": 0,
+          "score": 3
         },
         "badges": [
           "score_1",
@@ -3896,10 +3911,7 @@
           "comment_total_3",
           "like_total_1",
           "mylist_total_1",
-          "view_momentum_3",
-          "comment_momentum_2",
-          "mylist_momentum_3",
-          "like_momentum_3"
+          "comment_momentum_1"
         ],
         "rank": 1
       },
@@ -3908,27 +3920,26 @@
         "title": "【下園×えま×ほり】おきゅおワルシャワ！ 踊ってみた【オリジナル振付】",
         "owner": "ほり",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025009/46025009.26627367.original/r640x360l?key=713492db3a726cc8b506a2aa607951f69d7e885dffebadd24f92da97d0521977",
-        "score": 21379,
+        "score": 21380,
         "is_new": false,
         "counts": {
-          "view": 11319,
-          "comment": 896,
+          "view": 11401,
+          "comment": 902,
           "mylist": 193,
           "like": 388
         },
         "momentum": {
-          "view": 78,
-          "comment": 4,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "view": 82,
+          "comment": 6,
+          "mylist": 0,
+          "like": 0,
+          "score": 1
         },
         "badges": [
           "score_2",
           "view_total_3",
           "like_total_2",
-          "mylist_total_2",
-          "comment_momentum_2"
+          "mylist_total_2"
         ],
         "rank": 2
       },
@@ -3937,20 +3948,20 @@
         "title": "【わに×足太ぺんた】カイコ　踊ってみた【オリジナル振付】",
         "owner": "足太ぺんた",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028786/46028786.49054430.original/r640x360l?key=1e82b63ea296c1b74f6947793bff87393801470a8e42fb8606bfd5bc6677c9c7",
-        "score": 19524,
+        "score": 19587,
         "is_new": false,
         "counts": {
-          "view": 4648,
+          "view": 4691,
           "comment": 366,
           "mylist": 178,
-          "like": 386
+          "like": 387
         },
         "momentum": {
-          "view": 45,
+          "view": 43,
           "comment": 0,
           "mylist": 0,
-          "like": 0,
-          "score": 45
+          "like": 1,
+          "score": 63
         },
         "badges": [
           "score_3",
@@ -3964,23 +3975,24 @@
         "title": "セレナーデ - なとり 踊ってみた / めーとる×ぼたん【オリジナル振付】 #歌踊コレ2026春",
         "owner": "ｍ(ﾒｰﾄﾙ)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027626/46027626.26738862.original/r640x360l?key=6f71b8a7ed027bda3568d549c786cc04203041e536828e5c8f8011c4a044952d",
-        "score": 18721,
+        "score": 18751,
         "is_new": false,
         "counts": {
-          "view": 8927,
+          "view": 8989,
           "comment": 2419,
           "mylist": 153,
-          "like": 361
+          "like": 362
         },
         "momentum": {
-          "view": 60,
-          "comment": 1,
+          "view": 62,
+          "comment": 0,
           "mylist": 0,
-          "like": 0,
-          "score": 0
+          "like": 1,
+          "score": 30
         },
         "badges": [
-          "comment_total_1"
+          "comment_total_1",
+          "like_momentum_3"
         ],
         "rank": 4
       },
@@ -3989,24 +4001,26 @@
         "title": "【peatishimo♡⃛】メルト 踊ってみた【オリジナル振付】",
         "owner": "めこた。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021932/46021932.54116992.original/r640x360l?key=e13012bb3a4e12aa4f9859d3ad77986e7e2d7c98f5392620ecc28219c54698bd",
-        "score": 16393,
+        "score": 16643,
         "is_new": false,
         "counts": {
-          "view": 11681,
+          "view": 11852,
           "comment": 538,
-          "mylist": 154,
-          "like": 288
+          "mylist": 156,
+          "like": 293
         },
         "momentum": {
-          "view": 183,
+          "view": 171,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "mylist": 2,
+          "like": 5,
+          "score": 250
         },
         "badges": [
           "view_total_2",
-          "view_momentum_1"
+          "view_momentum_1",
+          "mylist_momentum_2",
+          "like_momentum_1"
         ],
         "rank": 5
       },
@@ -4018,17 +4032,17 @@
         "score": 15091,
         "is_new": false,
         "counts": {
-          "view": 5283,
-          "comment": 513,
+          "view": 5313,
+          "comment": 514,
           "mylist": 149,
           "like": 253
         },
         "momentum": {
-          "view": 82,
-          "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "view": 30,
+          "comment": 1,
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 6
@@ -4041,17 +4055,17 @@
         "score": 14494,
         "is_new": false,
         "counts": {
-          "view": 4665,
+          "view": 4689,
           "comment": 242,
           "mylist": 140,
           "like": 249
         },
         "momentum": {
-          "view": 25,
+          "view": 24,
           "comment": 0,
-          "mylist": 1,
+          "mylist": 0,
           "like": 0,
-          "score": 50
+          "score": 0
         },
         "badges": [],
         "rank": 7
@@ -4061,24 +4075,23 @@
         "title": "【アオハル組】アオイハルカゼ / H△G - 踊ってみた【踊コレ2026春】",
         "owner": "れ な",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022796/46022796.58368127.original/r640x360l?key=3a9dab70a0880a85e2199a264ec230fd256c739940cc74ba975f76496b6cc3aa",
-        "score": 13163,
+        "score": 13243,
         "is_new": false,
         "counts": {
-          "view": 4489,
+          "view": 4545,
           "comment": 431,
-          "mylist": 116,
-          "like": 244
+          "mylist": 117,
+          "like": 245
         },
         "momentum": {
-          "view": 59,
+          "view": 56,
           "comment": 0,
-          "mylist": 2,
-          "like": 3,
-          "score": 190
+          "mylist": 1,
+          "like": 1,
+          "score": 80
         },
         "badges": [
-          "mylist_momentum_3",
-          "like_momentum_3"
+          "mylist_momentum_3"
         ],
         "rank": 8
       },
@@ -4087,24 +4100,23 @@
         "title": "【ボブ企画(?)】ときめきジェットコースター / picco　踊ってみた【オリジナル振付】#踊コレ2026春",
         "owner": "むー",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46015113/46015113.77667435.original/r640x360l?key=ce95472596fe15590ddf673109f134778d6e651a56d01a3ae6f8718990c3db22",
-        "score": 12935,
+        "score": 13055,
         "is_new": false,
         "counts": {
-          "view": 3259,
-          "comment": 360,
+          "view": 3379,
+          "comment": 361,
           "mylist": 123,
           "like": 236
         },
         "momentum": {
-          "view": 29,
+          "view": 120,
           "comment": 1,
-          "mylist": 3,
-          "like": 4,
-          "score": 230
+          "mylist": 0,
+          "like": 0,
+          "score": 120
         },
         "badges": [
-          "mylist_momentum_2",
-          "like_momentum_2"
+          "view_momentum_3"
         ],
         "rank": 9
       },
@@ -4113,25 +4125,24 @@
         "title": "【まなこ×ちっさいの×わに】アイディスマイル/とあ 【オリジナル振付】踊ってみた",
         "owner": "わに",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026714/46026714.257844.original/r640x360l?key=abd7c09f50263e463cf6b7c10d060b68b5c37bc41b8ab1b854c033644dbf9893",
-        "score": 12529,
+        "score": 12779,
         "is_new": false,
         "counts": {
-          "view": 2641,
+          "view": 2671,
           "comment": 84,
-          "mylist": 123,
-          "like": 248
+          "mylist": 127,
+          "like": 251
         },
         "momentum": {
-          "view": 110,
+          "view": 30,
           "comment": 0,
-          "mylist": 8,
-          "like": 6,
-          "score": 550
+          "mylist": 4,
+          "like": 3,
+          "score": 250
         },
         "badges": [
-          "view_momentum_2",
           "mylist_momentum_1",
-          "like_momentum_1"
+          "like_momentum_2"
         ],
         "rank": 10
       },
@@ -4140,20 +4151,20 @@
         "title": "[ メズマライザー ] 安藤未知ナンバーオリジナル振付 [ #踊コレ2026春_女子コラボ ]",
         "owner": "安藤未知",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026129/46026129.20750667.original/r640x360l?key=040dfd65c20a026f5676f31ebef5f6b523796e5e192976ea98f19acf54ba89aa",
-        "score": 11070,
+        "score": 11082,
         "is_new": false,
         "counts": {
-          "view": 2147,
+          "view": 2159,
           "comment": 439,
           "mylist": 109,
           "like": 226
         },
         "momentum": {
-          "view": 10,
+          "view": 12,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 10
+          "score": 12
         },
         "badges": [],
         "rank": 11
@@ -4163,24 +4174,22 @@
         "title": "【令和に】Twilight ∞ nighT 踊ってみた【聖寿莉×せいな×ひお×Fuwa】【 #踊コレ2026春 】",
         "owner": "Fuwa (ふわ)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023413/46023413.99550760.original/r640x360l?key=53d45dfe510f3a08fe666d05b672eb2a52f6224eab9233e283addc4ed6976a8d",
-        "score": 10878,
+        "score": 10888,
         "is_new": false,
         "counts": {
-          "view": 1579,
+          "view": 1589,
           "comment": 194,
           "mylist": 122,
           "like": 220
         },
         "momentum": {
-          "view": 15,
+          "view": 10,
           "comment": 0,
-          "mylist": 2,
-          "like": 1,
-          "score": 115
+          "mylist": 0,
+          "like": 0,
+          "score": 10
         },
-        "badges": [
-          "mylist_momentum_3"
-        ],
+        "badges": [],
         "rank": 12
       },
       {
@@ -4188,23 +4197,24 @@
         "title": "【オリジナル振付】ハローセカイ　踊ってみた【 #踊コレ2026春】【 #劇場版プロセカ】",
         "owner": "チャイナ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022554/46022554.95056502.original/r640x360l?key=bd7293c1c9097cdf927b0ab021a29d65daf8a1ae63d8e975ea6becce98f32774",
-        "score": 9801,
+        "score": 9831,
         "is_new": false,
         "counts": {
-          "view": 5955,
-          "comment": 614,
+          "view": 6097,
+          "comment": 615,
           "mylist": 85,
-          "like": 183
+          "like": 184
         },
         "momentum": {
-          "view": 41,
-          "comment": 4,
-          "mylist": 1,
+          "view": 142,
+          "comment": 1,
+          "mylist": 0,
           "like": 1,
-          "score": 80
+          "score": 30
         },
         "badges": [
-          "comment_momentum_2"
+          "view_momentum_2",
+          "like_momentum_3"
         ],
         "rank": 13
       },
@@ -4213,23 +4223,25 @@
         "title": "【プロセカ】ファイアダンス 踊ってみた【ワンディス】",
         "owner": "隣のワンルームディスコ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027178/46027178.7637914.original/r640x360l?key=ea055089eec6a2da2138a7a77ebd4948734be52f07e1c41421a5401224eb607e",
-        "score": 8929,
+        "score": 9009,
         "is_new": false,
         "counts": {
-          "view": 1659,
-          "comment": 2105,
-          "mylist": 57,
-          "like": 239
+          "view": 1677,
+          "comment": 2122,
+          "mylist": 58,
+          "like": 240
         },
         "momentum": {
-          "view": 12,
-          "comment": 2,
-          "mylist": 0,
-          "like": 0,
-          "score": 12
+          "view": 18,
+          "comment": 17,
+          "mylist": 1,
+          "like": 1,
+          "score": 80
         },
         "badges": [
-          "comment_total_2"
+          "comment_total_2",
+          "comment_momentum_2",
+          "mylist_momentum_3"
         ],
         "rank": 14
       },
@@ -4238,23 +4250,25 @@
         "title": "【廻り出した東北企画】チルドレンレコード 踊ってみた【オリジナル振付】",
         "owner": "朱灑しいと(あやせしいと)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46022830/46022830.65454747.original/r640x360l?key=bbc3e26a94175537c012e535e5ec2aa527d9842f0b3e4e864e90e294cc63749b",
-        "score": 8303,
+        "score": 8494,
         "is_new": false,
         "counts": {
-          "view": 3173,
-          "comment": 234,
-          "mylist": 75,
-          "like": 151
+          "view": 3200,
+          "comment": 241,
+          "mylist": 77,
+          "like": 154
         },
         "momentum": {
-          "view": 25,
-          "comment": 35,
-          "mylist": 0,
-          "like": 0,
-          "score": 4
+          "view": 27,
+          "comment": 7,
+          "mylist": 2,
+          "like": 3,
+          "score": 191
         },
         "badges": [
-          "comment_momentum_1"
+          "comment_momentum_3",
+          "mylist_momentum_2",
+          "like_momentum_2"
         ],
         "rank": 15
       },
@@ -4263,20 +4277,20 @@
         "title": "【配信者が】キラー 踊ってみた【だのんみかんえりどら】",
         "owner": "だのん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028549/46028549.21915156.original/r640x360l?key=6b5eb61594fac523d7a0990c009584cde82c4ca62cd688eb694a52cd1cfe2dda",
-        "score": 6911,
+        "score": 6916,
         "is_new": false,
         "counts": {
-          "view": 1510,
+          "view": 1515,
           "comment": 817,
           "mylist": 67,
           "like": 132
         },
         "momentum": {
-          "view": 4,
+          "view": 5,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 4
+          "score": 5
         },
         "badges": [],
         "rank": 16
@@ -4286,20 +4300,20 @@
         "title": "【踊コレ限定公開】HERO 踊ってみた【オリジナル振付】#歌踊コレ2026春",
         "owner": "きりみ。",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024744/46024744.50701118.original/r640x360l?key=2d9ff92ebff0a90c6f9cf9c93488afeeb1040d1d83f484ff063f270e508ebcf6",
-        "score": 6629,
+        "score": 6639,
         "is_new": false,
         "counts": {
-          "view": 1749,
+          "view": 1759,
           "comment": 604,
           "mylist": 58,
           "like": 125
         },
         "momentum": {
-          "view": 9,
+          "view": 10,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 9
+          "score": 10
         },
         "badges": [],
         "rank": 17
@@ -4309,24 +4323,22 @@
         "title": "【音羽来夢×丸井かお】Worlders 踊ってみた【オリジナル振付】",
         "owner": "丸井かお",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46032395/46032395.91511390.original/r640x360l?key=9d445d16a9917d8df90885ba7fee14f33566c08dc74ca1388f5f263817164f67",
-        "score": 5420,
+        "score": 5465,
         "is_new": false,
         "counts": {
-          "view": 632,
+          "view": 637,
           "comment": 80,
-          "mylist": 57,
+          "mylist": 58,
           "like": 125
         },
         "momentum": {
-          "view": 8,
+          "view": 5,
           "comment": 0,
-          "mylist": 2,
-          "like": 3,
-          "score": 148
+          "mylist": 1,
+          "like": 0,
+          "score": 45
         },
-        "badges": [
-          "like_momentum_3"
-        ],
+        "badges": [],
         "rank": 18
       },
       {
@@ -4334,20 +4346,20 @@
         "title": "【オリジナル振付】ピーチティー／なつめ千秋 踊ってみた【さわりおん】",
         "owner": "芦葉さわ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024964/46024964.74784586.original/r640x360l?key=8dddcb26ad74506a046598c4d65ffd6ff9ee5bf2d13e16ba5a3e91b95ebeb570",
-        "score": 5362,
+        "score": 5368,
         "is_new": false,
         "counts": {
-          "view": 870,
+          "view": 876,
           "comment": 126,
           "mylist": 61,
           "like": 102
         },
         "momentum": {
-          "view": 4,
+          "view": 6,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 64
+          "mylist": 0,
+          "like": 0,
+          "score": 6
         },
         "badges": [],
         "rank": 19
@@ -4357,20 +4369,20 @@
         "title": "【まぁり×聖寿莉】Gore Diner 踊ってみた【踊コレオリジナル振付】",
         "owner": "まぁり",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026810/46026810.85090003.original/r640x360l?key=bcbfd748ba7393f0123f3cd8d528b36e06234e26bbae90e3ed2e1502f17bdee9",
-        "score": 5208,
+        "score": 5213,
         "is_new": false,
         "counts": {
-          "view": 682,
+          "view": 687,
           "comment": 64,
           "mylist": 54,
           "like": 118
         },
         "momentum": {
-          "view": 8,
+          "view": 5,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 68
+          "mylist": 0,
+          "like": 0,
+          "score": 5
         },
         "badges": [],
         "rank": 20
@@ -4380,20 +4392,20 @@
         "title": "【はのまぁり】ヒミツのテレパス 踊ってみた【踊コレオリジナル振付】",
         "owner": "まぁり",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026778/46026778.77475513.original/r640x360l?key=ae5d6d885e5d119d8e47267cd7859033276fbca39520eb3f883f6028c2eb7f1d",
-        "score": 4958,
+        "score": 4966,
         "is_new": false,
         "counts": {
-          "view": 603,
+          "view": 611,
           "comment": 151,
           "mylist": 51,
           "like": 115
         },
         "momentum": {
-          "view": 5,
+          "view": 8,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 65
+          "mylist": 0,
+          "like": 0,
+          "score": 8
         },
         "badges": [],
         "rank": 21
@@ -4403,20 +4415,20 @@
         "title": "【チャイべべ】Night Glitter 【踊ってみた】#踊コレ2026春",
         "owner": "べ～ぬ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019461/46019461.76198983.original/r640x360l?key=620b231933793a4ce92f48d91476afcade0d97c0e82bb1e0e941e554aa32c62f",
-        "score": 4758,
+        "score": 4779,
         "is_new": false,
         "counts": {
-          "view": 566,
+          "view": 567,
           "comment": 127,
           "mylist": 53,
-          "like": 103
+          "like": 104
         },
         "momentum": {
-          "view": 6,
+          "view": 1,
           "comment": 0,
-          "mylist": 1,
+          "mylist": 0,
           "like": 1,
-          "score": 66
+          "score": 21
         },
         "badges": [],
         "rank": 22
@@ -4429,21 +4441,19 @@
         "score": 4524,
         "is_new": false,
         "counts": {
-          "view": 1275,
+          "view": 1280,
           "comment": 349,
           "mylist": 40,
           "like": 83
         },
         "momentum": {
-          "view": 13,
-          "comment": 3,
+          "view": 5,
+          "comment": 0,
           "mylist": 0,
-          "like": 1,
-          "score": 30
+          "like": 0,
+          "score": 0
         },
-        "badges": [
-          "comment_momentum_3"
-        ],
+        "badges": [],
         "rank": 23
       },
       {
@@ -4451,10 +4461,10 @@
         "title": "【あおごまりん】マカロン 踊ってみた【踊コレ2026春】",
         "owner": "Ao.",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024293/46024293.72770719.original/r640x360l?key=29b1f71f37074d203101f25938c29bde1b418f1a0abbbae715e8d38653569bd0",
-        "score": 2896,
+        "score": 2898,
         "is_new": false,
         "counts": {
-          "view": 334,
+          "view": 336,
           "comment": 21,
           "mylist": 34,
           "like": 60
@@ -4474,17 +4484,17 @@
         "title": "【おずｻﾗるびぃチル】ノロ 踊ってみた",
         "owner": "すかチル(ちろる)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46019569/46019569.93213761.original/r640x360l?key=bec93cb8b57eddc0f46b797ab91899e5dc7e16261a9593f37ef942b26c4662f2",
-        "score": 2703,
+        "score": 2704,
         "is_new": false,
         "counts": {
-          "view": 488,
+          "view": 489,
           "comment": 355,
           "mylist": 29,
           "like": 51
         },
         "momentum": {
           "view": 1,
-          "comment": 1,
+          "comment": 0,
           "mylist": 0,
           "like": 0,
           "score": 1
@@ -4506,11 +4516,11 @@
           "like": 54
         },
         "momentum": {
-          "view": 4,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 4
+          "score": 0
         },
         "badges": [],
         "rank": 26
@@ -4529,11 +4539,11 @@
           "like": 56
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 0
         },
         "badges": [],
         "rank": 27
@@ -4543,20 +4553,20 @@
         "title": "【木製うさぎ】ロウワー 踊ってみた【踊コレ2026春】",
         "owner": "卯花（ｳﾉﾊﾅ）",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027252/46027252.63572351.original/r640x360l?key=947cd15993ca97d8e08242da8536e97f3ac0c4daef58868dea55cf9707dee64d",
-        "score": 2466,
+        "score": 2467,
         "is_new": false,
         "counts": {
-          "view": 313,
+          "view": 314,
           "comment": 130,
           "mylist": 25,
           "like": 57
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 28
@@ -4566,20 +4576,20 @@
         "title": "【ともか×はかせ】キミノヨゾラ哨戒班 踊ってみた　【女子コラボ】",
         "owner": "はかせ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028759/46028759.12147639.original/r640x360l?key=3a7ed7e3243fc9a6d52abe19c4eaa88b6284c9eaea02484727c95e1edaa351bc",
-        "score": 1834,
+        "score": 1837,
         "is_new": false,
         "counts": {
-          "view": 352,
+          "view": 355,
           "comment": 21,
           "mylist": 18,
           "like": 38
         },
         "momentum": {
-          "view": 1,
+          "view": 3,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 3
         },
         "badges": [],
         "rank": 29
@@ -4621,11 +4631,11 @@
           "like": 35
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 61
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 31
@@ -4635,20 +4645,20 @@
         "title": "【天照×よしえ】ブーセメリア 踊ってみた【オリジナル振付】",
         "owner": "天照",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46009875/46009875.95926872.original/r640x360l?key=a830d53e3c58533ec4ba7316bd03686def2ad15d4b86455edcbf4fcd0f2cd39c",
-        "score": 1557,
+        "score": 1559,
         "is_new": false,
         "counts": {
-          "view": 253,
+          "view": 255,
           "comment": 43,
           "mylist": 16,
           "like": 33
         },
         "momentum": {
-          "view": 0,
+          "view": 2,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 2
         },
         "badges": [],
         "rank": 32
@@ -4658,20 +4668,20 @@
         "title": "【踊コレ2026春】ハローセカイ 踊ってみた【MEとおさかな】",
         "owner": "おさかな",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021840/46021840.92448832.original/r640x360l?key=b021939900f03d96878a1bc107c81fe5c028464f5d8f86858daad4295de9c817",
-        "score": 1391,
+        "score": 1392,
         "is_new": false,
         "counts": {
-          "view": 190,
+          "view": 191,
           "comment": 11,
           "mylist": 14,
           "like": 32
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 33
@@ -4690,11 +4700,11 @@
           "like": 29
         },
         "momentum": {
-          "view": 4,
-          "comment": 1,
+          "view": 0,
+          "comment": 0,
           "mylist": 0,
-          "like": 1,
-          "score": 24
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 34
@@ -4713,11 +4723,11 @@
           "like": 27
         },
         "momentum": {
-          "view": 2,
-          "comment": 1,
+          "view": 0,
+          "comment": 0,
           "mylist": 0,
-          "like": 1,
-          "score": 22
+          "like": 0,
+          "score": 0
         },
         "badges": [],
         "rank": 35
@@ -4727,10 +4737,10 @@
         "title": "【あずふぁみゅん】スマイル*シンフォニー 踊ってみた【MV/定点】",
         "owner": "みゅん♪*",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46029813/46029813.15758260.original/r640x360l?key=b1e22cbb98aee07449bae22ef785e168dc1aabe68e9666ef7804eccd796785a3",
-        "score": 1147,
+        "score": 1148,
         "is_new": false,
         "counts": {
-          "view": 206,
+          "view": 207,
           "comment": 18,
           "mylist": 10,
           "like": 27
@@ -4773,20 +4783,20 @@
         "title": "【踊コレ2026春】マジカホリック 踊ってみた【オリジナル振付】",
         "owner": "どらまちっくまろん",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46016805/46016805.67013017.original/r640x360l?key=2131a79b12a9076a8dc4aba5459c0bfc8b1b382e64b578baafabd53c0fb4687c",
-        "score": 757,
+        "score": 777,
         "is_new": false,
         "counts": {
           "view": 117,
-          "comment": 4,
+          "comment": 6,
           "mylist": 5,
-          "like": 22
+          "like": 23
         },
         "momentum": {
-          "view": 1,
-          "comment": 0,
+          "view": 0,
+          "comment": 2,
           "mylist": 0,
-          "like": 0,
-          "score": 1
+          "like": 1,
+          "score": 20
         },
         "badges": [],
         "rank": 38
@@ -4796,20 +4806,20 @@
         "title": "【雲宿くゆき×kiko】ヤミカワトーキョー 【オリジナル振付】踊コレ2026春 踊ってみた",
         "owner": "雲宿くゆき",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46024738/46024738.65769678.original/r640x360l?key=61eb27b64d03b4bb1eb0aa540aedab6ef7f6a9b26991b4b9902f247e3ac96633",
-        "score": 569,
+        "score": 570,
         "is_new": false,
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 9,
           "mylist": 4,
           "like": 16
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 39
@@ -4913,20 +4923,20 @@
         "title": "【ｻﾗ企画】拝啓ドッペルゲンガー踊ってみた/オリジナル振付 踊コレ2026男女コラボ【椎名るびぃむーせぶシキうどん雪姫Nagareジオ薺Tee苺花れな藍音】",
         "owner": "ｻﾗ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025132/46025132.77135028.original/r640x360l?key=b156badfb411ef1fded2dc3381f46cbf4dba9dbf1c29bebe844e174c30b969c7",
-        "score": 21469,
+        "score": 21529,
         "is_new": false,
         "counts": {
-          "view": 10776,
+          "view": 10930,
           "comment": 694,
           "mylist": 212,
-          "like": 360
+          "like": 362
         },
         "momentum": {
-          "view": 100,
-          "comment": 12,
-          "mylist": 3,
-          "like": 3,
-          "score": 241
+          "view": 154,
+          "comment": 0,
+          "mylist": 0,
+          "like": 2,
+          "score": 60
         },
         "badges": [
           "score_1",
@@ -4935,9 +4945,7 @@
           "like_total_3",
           "mylist_total_1",
           "view_momentum_2",
-          "comment_momentum_2",
-          "mylist_momentum_1",
-          "like_momentum_1"
+          "like_momentum_2"
         ],
         "rank": 1
       },
@@ -4946,27 +4954,27 @@
         "title": "【めーとる×ぽるし×AMU×ありく】ファイアダンス　踊ってみた【オリジナル振り付け】",
         "owner": "ぽるし",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025387/46025387.2788891.original/r640x360l?key=008ec0f2b3eb96a1b7a562e50833292149955dc10c69ece2cf02234b02a4c59c",
-        "score": 21195,
+        "score": 21302,
         "is_new": false,
         "counts": {
-          "view": 4102,
-          "comment": 1132,
-          "mylist": 188,
-          "like": 473
+          "view": 4127,
+          "comment": 1154,
+          "mylist": 189,
+          "like": 475
         },
         "momentum": {
-          "view": 27,
-          "comment": 7,
-          "mylist": 2,
+          "view": 25,
+          "comment": 22,
+          "mylist": 1,
           "like": 2,
-          "score": 148
+          "score": 107
         },
         "badges": [
           "score_2",
           "comment_total_1",
           "like_total_1",
           "mylist_total_3",
-          "comment_momentum_3",
+          "comment_momentum_1",
           "mylist_momentum_2",
           "like_momentum_2"
         ],
@@ -4977,20 +4985,20 @@
         "title": "【13人で】雲を裂け 踊ってみた【オリジナル振付】 #踊コレ2026春",
         "owner": "おうどん◥█◤∥",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46025676/46025676.46176205.original/r640x360l?key=f7918dbe38837e59039dc96dc816398126abed269b5d13d49fd12aafd2341488",
-        "score": 19925,
+        "score": 20085,
         "is_new": false,
         "counts": {
-          "view": 13842,
-          "comment": 1050,
-          "mylist": 196,
-          "like": 334
+          "view": 14003,
+          "comment": 1051,
+          "mylist": 198,
+          "like": 336
         },
         "momentum": {
-          "view": 165,
-          "comment": 0,
-          "mylist": 1,
-          "like": 1,
-          "score": 80
+          "view": 161,
+          "comment": 1,
+          "mylist": 2,
+          "like": 2,
+          "score": 160
         },
         "badges": [
           "score_3",
@@ -4998,7 +5006,8 @@
           "comment_total_2",
           "mylist_total_2",
           "view_momentum_1",
-          "mylist_momentum_3"
+          "mylist_momentum_1",
+          "like_momentum_2"
         ],
         "rank": 3
       },
@@ -5007,23 +5016,25 @@
         "title": "【ありく×ぽるし】ロミオとシンデレラ 踊ってみた",
         "owner": "ありく",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46027461/46027461.7477447.original/r640x360l?key=1ead4acaf99284c480ce262648b5951ee57d83898833bc5778f103f7b9fce30a",
-        "score": 15935,
+        "score": 16007,
         "is_new": false,
         "counts": {
-          "view": 2514,
-          "comment": 619,
-          "mylist": 144,
-          "like": 380
+          "view": 2525,
+          "comment": 623,
+          "mylist": 145,
+          "like": 381
         },
         "momentum": {
-          "view": 5,
-          "comment": 2,
-          "mylist": 0,
-          "like": 0,
-          "score": 5
+          "view": 11,
+          "comment": 4,
+          "mylist": 1,
+          "like": 1,
+          "score": 72
         },
         "badges": [
-          "like_total_2"
+          "like_total_2",
+          "comment_momentum_3",
+          "mylist_momentum_2"
         ],
         "rank": 4
       },
@@ -5032,24 +5043,23 @@
         "title": "【アレグリア】Alice in 冷凍庫 踊ってみた【オリジナル振付】 #踊コレ2026春",
         "owner": "おうどん◥█◤∥",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46026077/46026077.30410634.original/r640x360l?key=e76437ad180d950340d4e277113e58e2b6639f80c15f58a0dc2b6bd353a7ba5b",
-        "score": 13721,
+        "score": 13757,
         "is_new": false,
         "counts": {
-          "view": 2885,
+          "view": 2901,
           "comment": 562,
           "mylist": 139,
-          "like": 261
+          "like": 262
         },
         "momentum": {
-          "view": 12,
-          "comment": 2,
-          "mylist": 1,
-          "like": 2,
-          "score": 92
+          "view": 16,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1,
+          "score": 36
         },
         "badges": [
-          "mylist_momentum_3",
-          "like_momentum_2"
+          "like_momentum_3"
         ],
         "rank": 5
       },
@@ -5061,23 +5071,21 @@
         "score": 13220,
         "is_new": false,
         "counts": {
-          "view": 5195,
+          "view": 5226,
           "comment": 207,
           "mylist": 132,
           "like": 220
         },
         "momentum": {
-          "view": 35,
+          "view": 31,
           "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 110
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
         "badges": [
           "view_total_3",
-          "view_momentum_3",
-          "mylist_momentum_3",
-          "like_momentum_2"
+          "view_momentum_3"
         ],
         "rank": 6
       },
@@ -5086,22 +5094,25 @@
         "title": "[ ありく×るなち ] しあわせレストラン / オリジナル振付 [ 踊コレ2026春 ]",
         "owner": "るなち",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028764/46028764.37827081.original/r640x360l?key=8093fa5ac042bf40a084c4c73b2d576949ad1950755014ece7b65114525d8d95",
-        "score": 10225,
+        "score": 10333,
         "is_new": false,
         "counts": {
-          "view": 1395,
+          "view": 1403,
           "comment": 301,
-          "mylist": 107,
-          "like": 226
+          "mylist": 108,
+          "like": 229
         },
         "momentum": {
-          "view": 5,
-          "comment": 3,
+          "view": 8,
+          "comment": 0,
           "mylist": 1,
-          "like": 1,
-          "score": 66
+          "like": 3,
+          "score": 108
         },
-        "badges": [],
+        "badges": [
+          "mylist_momentum_2",
+          "like_momentum_1"
+        ],
         "rank": 7
       },
       {
@@ -5109,20 +5120,20 @@
         "title": "【ひなさく劇場】Alice in Musicland 踊ってみた【オリジナル振付／踊コレ2026春男女コラボ】",
         "owner": "陽向 桜久",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023618/46023618.50878727.original/r640x360l?key=55c8e144b60de90824be2a2a06fe7016275c2c4fe51f78fc79fe8a53b0ce9ca5",
-        "score": 5419,
+        "score": 5420,
         "is_new": false,
         "counts": {
-          "view": 568,
+          "view": 569,
           "comment": 115,
           "mylist": 61,
           "like": 120
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 8
@@ -5132,20 +5143,20 @@
         "title": "【ニコニコランド】Be The MUSIC!【踊ってみた】",
         "owner": "Ln(れの)",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46028157/46028157.25805412.original/r640x360l?key=f8ad1e51ae93ff60a473f29bfc312698cf91ed026e00e84815c78575cefc3dd6",
-        "score": 5185,
+        "score": 5186,
         "is_new": false,
         "counts": {
-          "view": 824,
+          "view": 825,
           "comment": 216,
           "mylist": 52,
           "like": 113
         },
         "momentum": {
-          "view": 3,
-          "comment": 1,
+          "view": 1,
+          "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 3
+          "score": 1
         },
         "badges": [],
         "rank": 9
@@ -5164,15 +5175,13 @@
           "like": 109
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
-          "mylist": 1,
-          "like": 2,
-          "score": 82
+          "mylist": 0,
+          "like": 0,
+          "score": 0
         },
-        "badges": [
-          "like_momentum_2"
-        ],
+        "badges": [],
         "rank": 10
       },
       {
@@ -5180,23 +5189,23 @@
         "title": "【8人コラボ】ペンタトニック【オリジナル振付】",
         "owner": "たけ",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023414/46023414.61217849.original/r640x360l?key=cc92a6aed4b28e646be7bfd8b1ede3f0e44a4be2678790a00910fb645ac53bfc",
-        "score": 4024,
+        "score": 4030,
         "is_new": false,
         "counts": {
-          "view": 847,
-          "comment": 177,
+          "view": 852,
+          "comment": 185,
           "mylist": 44,
           "like": 70
         },
         "momentum": {
-          "view": 10,
-          "comment": 35,
+          "view": 5,
+          "comment": 8,
           "mylist": 0,
           "like": 0,
-          "score": 13
+          "score": 6
         },
         "badges": [
-          "comment_momentum_1"
+          "comment_momentum_2"
         ],
         "rank": 11
       },
@@ -5214,11 +5223,11 @@
           "like": 64
         },
         "momentum": {
-          "view": 1,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 1
+          "score": 0
         },
         "badges": [],
         "rank": 12
@@ -5251,20 +5260,20 @@
         "title": "【オリジナル振付】弱者のマーチ踊ってみた【かのあゆきくろおり】",
         "owner": "orion",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46021968/46021968.9317980.original/r640x360l?key=503b3dd750964ce7a42a87a6603214a487d09729e3c0f8cf1411ea004c03dbad",
-        "score": 1852,
+        "score": 1853,
         "is_new": false,
         "counts": {
-          "view": 231,
+          "view": 232,
           "comment": 10,
           "mylist": 20,
           "like": 41
         },
         "momentum": {
-          "view": 3,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
-          "like": 1,
-          "score": 23
+          "like": 0,
+          "score": 1
         },
         "badges": [],
         "rank": 14
@@ -5329,11 +5338,11 @@
           "like": 24
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 2
+          "score": 0
         },
         "badges": [],
         "rank": 17
@@ -5366,20 +5375,20 @@
         "title": "【雲宿くゆき×波】ピカレスクロマンサー 踊コレ2026春 踊ってみた",
         "owner": "雲宿くゆき",
         "thumbnail_url": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46023775/46023775.79265293.original/r640x360l?key=90dd187e94b5f96e0f40c24145f2fe5184ae47c0f71b598852eef9324dab2a4e",
-        "score": 576,
+        "score": 577,
         "is_new": false,
         "counts": {
-          "view": 56,
+          "view": 57,
           "comment": 6,
           "mylist": 4,
           "like": 18
         },
         "momentum": {
-          "view": 0,
+          "view": 1,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 0
+          "score": 1
         },
         "badges": [],
         "rank": 19
@@ -5398,11 +5407,11 @@
           "like": 9
         },
         "momentum": {
-          "view": 2,
+          "view": 0,
           "comment": 0,
           "mylist": 0,
           "like": 0,
-          "score": 2
+          "score": 0
         },
         "badges": [],
         "rank": 20
